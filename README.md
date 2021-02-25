@@ -21,24 +21,57 @@
 第四则是希望究天人之际，通古今之变，成一家书法之言。目前字还是不够好，需继续练习。**坚持，自勉**。  
 --2021-01-04
 
-#### 练习
+<br/>
 
-- [x] [书法练习轨迹--明月几时有]( https://gitee.com/xy180/calligraphy/blob/master/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.md )
+---
 
+#### 《书法练习轨迹--明月几时有》网址
 
-- [x] [如何练好书法]( https://gitee.com/xy180/calligraphy/blob/master/%E5%A6%82%E4%BD%95%E7%BB%83%E5%A5%BD%E4%B9%A6%E6%B3%95.md )
+> 若无意外，一般每周一在gitee记录上周练习情况。其他渠道，不定时同步。     --2021-02-04
 
+| 序号  | 链接                                                			  | 类型 | 备注             			     |
+| ---   | -------------------------------------------------------------   | ---- | --------------------------------- |
+|   1   | [gitee]( https://gitee.com/xy180/calligraphy )      			  | 仓库 | 原址，相当于官网				     |
+|   2   | [github]( https://github.com/scott180/calligraphy ) 			  | 仓库 | 备份，不定时同步                  |
+|   3   | [csdn code]( https://codechina.csdn.net/xu180/calligraphy )     | 仓库 | 备份，不定时同步                  |
+|   4   | [坚果云]( https://www.jianguoyun.com/p/DSy3IHwQxP-NBhjv5tgD )   | 网盘 | pdf文件分享，每日习作照片也在这里 |
+|   5   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                   | 网盘 | 笔记分享，无删减              	 |
+|   6   | [csdn]( https://blog.csdn.net/xu180/article/details/113602103 ) | 社区 | 发布文章，有删减              	 |
 
-
-
-
-
-
+<br/>
 
 ***
-***
+
 > by [gitee-xy180]( https://gitee.com/xy180/calligraphy )
 ```
-2021-01-12 、2021-01-26删除了一些大文件，但是这些文件还在提交记录中，仍然占空间，所以仓库显得比较大。
+一、在gitee仓库于2021-01-12 、2021-01-26删除了一些大文件，但是这些文件还在提交记录中，仍然占空间，所以仓库显得比较大。
+```
+```
+二、如何将markdown文件导出为带图片的PDF （书法练习轨迹--明月几时有是markdown文件）
+1、Typora 打开 markdown文件
+2、点击 文件-导出-HTML
+3、浏览器打开文件-打印-另存为PDF
 ```
 
+```
+三、GitHub 图片加载不出来怎么办
+打开路径 C:\Windows\System32\drivers\etc 下的 hosts 文件,添加下面的语句
+
+# GitHub Start 
+192.30.253.112 Build software better, together 
+192.30.253.119 gist.github.com
+151.101.184.133 assets-cdn.github.com
+151.101.184.133 raw.githubusercontent.com
+151.101.184.133 gist.githubusercontent.com
+151.101.184.133 cloud.githubusercontent.com
+151.101.184.133 camo.githubusercontent.com
+151.101.184.133 avatars0.githubusercontent.com
+151.101.184.133 avatars1.githubusercontent.com
+151.101.184.133 avatars2.githubusercontent.com
+151.101.184.133 avatars3.githubusercontent.com
+151.101.184.133 Build software better, together
+151.101.184.133 avatars5.githubusercontent.com
+151.101.184.133 avatars6.githubusercontent.com
+151.101.184.133 avatars7.githubusercontent.com
+151.101.184.133 Build software better, together
+```
