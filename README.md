@@ -30,8 +30,10 @@
 |   2   | [github]( https://github.com/scott180/calligraphy ) 			       | 仓库 | 备份，最流行git仓库。国外网站，有时打不开。      |
 |   3   | [csdn code]( https://codechina.csdn.net/xu180/calligraphy )          | 仓库 | 备份，不定时同步。                  |
 |   4   | [坚果云]( https://www.jianguoyun.com/p/DSy3IHwQxP-NBhjv5tgD )        | 网盘 | pdf文件分享，每日习作照片也在这里。 |
-|   5   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 网盘 | 笔记分享，无删减。              	|
-|   6   | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 )  | 社区 | 发布文章，有删减。                  |
+|   5   | [语雀]( https://www.yuque.com/longguang123/ccgbto/cbq9u0 )           | 社区 | 发布文章，无删减。                  |
+|   6   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 网盘 | 笔记分享，无删减。              	|
+|   7   | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 )  | 社区 | 发布文章，有删减。                  |
+
 
 
 ---
