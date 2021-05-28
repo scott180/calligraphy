@@ -19,13 +19,13 @@
 
 ---
 
-#### 轨迹网址
+#### 网址
 
 > 若无意外，一般每周一在gitlab《**书法练习轨迹--明月几时有**》记录上周练习情况。其他渠道，不定时同步。
 
 | 序号  | 仓库                                                			       |  备注             			                  |
 | ---   | -------------------------------------------------------------        |  -----------------------------------         |
-|   1   | [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 			|  国外网站，网速较慢。                         |
+|   1   | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。                         |
 |   2   | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		|
 |   3   | [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [imgs]( https://codechina.csdn.net/xu180/imgs )  			|  备份，国内网站，速度快。用户较少。        	|
 |   4   | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			|  备份，最流行git仓库。国外网站，但有时打不开。|
@@ -44,17 +44,58 @@
 |   15  | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        |  笔记分享，无删减。               	          |
 |   -   | **网页**                        |                                    |               	|
 |   16  | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器                               |
-|   17  | [gitee pages]( http://xy180.gitee.io/imgs/preview/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )   | gitee静态网页，关键词[屏蔽]。     |
-|   18  | [github pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )   | github静态网页，无删减。          |
+|   17  | [gitee_pages]( http://xy180.gitee.io/imgs/preview/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )       | gitee静态网页，关键词[屏蔽]。 |
+|   18  | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )   | github静态网页，无删减。      |
 
+```java
+
+自二零二零年九月底练习书法以来，刚开始一直在gitee仓库记录更新每周练习情况，毕竟这是国产网站，还是要支持的。
+后来有鉴于某云盘背信弃义停止服务，一个网站保存资料不保险，鸡蛋不能放到一个篮子里。
+而且全世界最流行的git平台是github，于是二零二零年十一月将文件备份到此处，gitee为主github为辅。
+
+但是github是境外网站，网速慢，经常打不开。于是又找了个国产git平台-csdn_code，将资料再备份一份到此处。
+这个git平台虽然建立时间端，知名度低，用户少，但是网速挺快，限制也少，不怎么屏蔽关键字。
+
+再后来觉得狡兔三窟，互联网这玩意不是特别靠谱，说不定哪天网站会被封或者停止服务，多找些地方备份总是没错的。
+于是网上搜索常用git平台仓库，将书法练习资料又备份到gitlab和coding。这五个平台同时保存书法练习相关资料和图片。
+
+然而随着每周更新，书法练习轨迹的内容越来越多，gitee所屏蔽的关键词也越来越多，还不提示哪个被禁了，应该怎么改。
+其他四个平台基本不屏蔽，就他一个屏蔽。总是“该文件疑似存在违规内容，无法显示: 。” 。此处不留人，自有留人处。
+因此虽然gitee是第一个记录书法练习资料，有很多历史记录，刚开始一直当做官网，有一种初恋情结。但是不给力不好用啊，只能当备份了。
+
+综合比较这几个git仓库，gitee有关键词屏蔽，根本就看不见内容；github外网速度很慢，经常打不开；csdn_code成立时间短用户少不是很放心；
+coding是腾讯的有大厂背书，但是成也tx败也tx，有腾讯微云的前车之鉴，不敢信也不好说，关键是markdown文件不渲染；
+还是gitlab比较好用，github第一gitlab就是第二，虽然也是外网，但是网速还行，可以接受。
+因此决定将gitlab仓库作为书法练习的官网，每周更新资料，其他的作为备份，不定时同步。
+
+各Git平台书法练习仓库创建时间：
+gitee--20200930
+github--20201112
+csdn_code--20210202
+gitlab--20210504
+coding--20210524
+
+同时使用阿里云盘、坚果云、百度云盘等等保存练习资料及图片。  
+不定时将书法练习轨迹更新到csdn博客、博客园、语雀等比较小众的程序员网站。
+以后字写好了能见人了再拿出来到头条、豆瓣、知乎等高流量渠道晒图、晒字。
+所谓十年磨一剑，砺得梅花香。
+
+如有游客想浏览本人的书法练习轨迹，可点击上面表格加粗部分gitlab、github_pages，这两处前者内容最全面，后者格式最美观。
+
+以上 --20210527
+
+```
 ---
 
 #### 名帖
 
-> 文徵明《小楷赤壁赋》
+> 文徵明《小楷赤壁赋》 <br/>
 ![文徵明《小楷赤壁赋》]( ./书法字帖/文徵明《小楷赤壁赋》.jpg)
 
-> 王羲之-兰亭序
+> 颜真卿-多宝塔碑 <br/>
+![多宝塔碑]( ./书法字帖/多宝塔碑.jpg)
+
+> 王羲之-兰亭序 <br/>
 ![兰亭序]( ./书法字帖/兰亭序.jpg)
 
 ---
