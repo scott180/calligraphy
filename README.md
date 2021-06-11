@@ -164,8 +164,8 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 github pages 
 位置：Setting - GitHub Pages - Save
 优点：有十种主题可以选择；提交代码自动发布最新文件。
-不足：主题偏少。外网，选择主题时速度慢，但是发布后的文件速度较快。
-备注：删除目录下_config.yml文件即选择默认的markdown文件主题。
+不足：主题偏少。外网，选择主题时速度慢，但是发布后的文件访问较快。
+备注：删除目录下_config.yml文件即选择默认的markdown主题。
 
 
 gitee pages   
