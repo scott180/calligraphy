@@ -26,9 +26,9 @@
 | 序号  | 仓库                                                			       |  备注             			                  |
 | ---   | -------------------------------------------------------------        |  -----------------------------------         |
 |   1   | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。                         |
-|   2   | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		|
-|   3   | [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [imgs]( https://codechina.csdn.net/xu180/imgs )  			|  备份，国内网站，速度快。用户较少。        	|
-|   4   | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			|  备份，最流行git仓库。国外网站，但有时打不开。|
+|   2   | [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [imgs]( https://codechina.csdn.net/xu180/imgs )  			|  备份，国内网站，速度快。用户较少。        	|
+|   3   | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			|  备份，最流行git仓库。国外网站，但有时打不开。|
+|   4   | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		|
 |   5   | [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [imgs]( https://gitee.com/xy180/imgs )                        			|  备份，国内网站，速度快。但可能会被[屏蔽]。   |
 |   -   | **社区**                        |                                    |               	|
 |   6   | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 )  |  程序员技术交流平台，发布文章，有删减。      |
