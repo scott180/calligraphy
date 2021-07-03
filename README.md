@@ -81,7 +81,7 @@ coding--20210524
 以后字写好了能见人了再拿出来到头条、豆瓣、知乎等高流量渠道晒图、晒字。
 所谓十年磨一剑，砺得梅花香。
 
-如有游客想浏览本人的书法练习轨迹，可点击上面表格加粗部分gitlab、github_pages，这两处前者内容最全面，后者格式最美观。
+如有游客想浏览本人的书法练习轨迹，可点击上面表格首尾行加粗部分gitlab、github_pages，这两处前者内容最全面，后者格式最美观。
 
 以上 --20210527
 
@@ -121,14 +121,15 @@ https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/20210
 gitee   加载快，有屏蔽
 https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 
-
 ```
 
 ```
 2、如何将markdown文件导出为带图片的PDF （《书法练习轨迹--明月几时有》是markdown文件）
+
 Ⅰ.使用Typora 打开 markdown文件
 Ⅱ.点击 文件-导出-HTML
 Ⅲ.浏览器打开文件-打印-另存为PDF
+
 ```
 
 ```
@@ -156,6 +157,7 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 151.101.184.133 avatars6.githubusercontent.com
 151.101.184.133 avatars7.githubusercontent.com
 151.101.184.133 Build software better, together
+
 ```
 
 
