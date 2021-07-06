@@ -131,9 +131,14 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 ```
 2、如何将markdown文件导出为带图片的PDF （《书法练习轨迹--明月几时有》是markdown文件）
 
+① markdown转PDF
 Ⅰ.使用Typora 打开 markdown文件
 Ⅱ.点击 文件-导出-HTML
 Ⅲ.浏览器打开文件-打印-另存为PDF
+
+
+② markdown转PDF文件分页
+<div STYLE="page-break-after: always;"></div>
 
 ```
 
