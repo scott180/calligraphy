@@ -23,6 +23,8 @@
 
 ---
 
+<div STYLE="page-break-after: always;"></div>
+
 #### 网址
 
 > 若无意外，一般每周一在gitlab《**书法练习轨迹--明月几时有**》记录上周练习情况。其他渠道，不定时同步。
@@ -91,7 +93,10 @@ coding--20210524
 以上 --20210527
 
 ```
+
 ---
+
+<div STYLE="page-break-after: always;"></div>
 
 #### 名帖
 
@@ -105,6 +110,8 @@ coding--20210524
 ![兰亭序]( ./书法字帖/兰亭序.jpg)
 
 ---
+
+<div STYLE="page-break-after: always;"></div>
 
 #### 附录
 
