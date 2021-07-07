@@ -25,9 +25,16 @@
 
 <div STYLE="page-break-after: always;"></div>
 
-#### 网址
+#### 书法练习轨迹网址
 
 > 若无意外，一般每周一在gitlab《**书法练习轨迹--明月几时有**》记录上周练习情况。其他渠道，不定时同步。
+
+```
+以下网址包含三类文件：《书法练习轨迹--明月几时有》、《书法练习轨迹ReadMe》、书法练习轨迹图片。
+《书法练习轨迹--明月几时有》记录本人每周练习书法情况：包含练习图片及一些感悟。
+《书法练习轨迹ReadMe》即当前文档，是git平台的README文件：作自我介绍之意。
+书法练习轨迹图片是《书法练习轨迹--明月几时有》文档中图片实际保存地，markdown文件中看到的图片是图片链接。
+```
 
 | 序号 | 仓库                                                			      |  备注             			                 |
 | ---  | -------------------------------------------------------------        |  -----------------------------------         |
@@ -93,6 +100,19 @@ coding--20210524
 以上 --20210527
 
 ```
+
+---
+
+<div STYLE="page-break-after: always;"></div>
+
+#### 个人账号
+
+> 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。
+
+- **个人邮箱** &ensp; 1021151991@qq.com 
+- **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
+- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) 
+
 
 ---
 
@@ -195,5 +215,6 @@ gitee pages
 
 ```
 
-***
+
+
 
