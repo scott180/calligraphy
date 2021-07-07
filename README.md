@@ -54,9 +54,9 @@
 | 12   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
 | 13   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
 | 14   | [wps云盘]( https://www.kdocs.cn/l/cpUDGjX6765H )                     | pdf文件分享，需要登录。                      |
-| 15   | [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )              | pdf文件分享。                                |
+| 15   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                |
 | 16   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
-| 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  |  文件分享，无删减。                          |
+| 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
 | 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器，文件分享。                   |
 | 19   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
