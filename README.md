@@ -60,7 +60,7 @@
 | -    | **网页**                        |                                    |
 | 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器，文件分享。                   |
 | 19   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
-| 20   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [笔名汉字频率分析]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )   |
+| 20   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )        |
 
 ```
 
@@ -100,6 +100,17 @@ coding--20210524
 以上 --20210527
 
 ```
+
+---
+
+---
+
+> 笔名汉字频率分析。<br>
+> 数据来自《[书法练习轨迹--明月几时有]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )》中关于本人笔名的记录。
+
+
+- **链接** &ensp; [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) &ensp; [语雀]( https://www.yuque.com/longguang123/ccgbto/oby4hq ) &ensp; [csdn]( https://blog.csdn.net/xu180/article/details/118940065 ) &ensp; [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )
+
 
 ---
 
