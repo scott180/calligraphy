@@ -101,6 +101,15 @@ coding--20210524
 
 ```
 
+```
+
+这几天github相关网页都打不开。果然，鸡蛋不能放在一个篮子里。
+若要查看书法练习轨迹相关文档，可到上述表格第一行“gitlab”项目。目前这个平台还是稳定的，本人最新记录正在此处。
+如感觉网速较慢或者页面加载不出来，可到第二行“csdn_code”或者第十八号“作业部落”查看文档。此两处为国产软件，平台稳定，网速较快。
+--20210721
+
+```
+
 ---
 
 ---
@@ -109,7 +118,7 @@ coding--20210524
 > 数据来自《[书法练习轨迹--明月几时有]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )》中关于本人笔名的记录。
 
 
-- **链接** &ensp; [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) &ensp; [语雀]( https://www.yuque.com/longguang123/ccgbto/oby4hq ) &ensp; [csdn]( https://blog.csdn.net/xu180/article/details/118940065 ) &ensp; [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )
+- **链接** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy/-/blob/master/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90.md ) &ensp; [语雀]( https://www.yuque.com/longguang123/ccgbto/flt0hf ) &ensp; [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) &ensp; [csdn]( https://blog.csdn.net/xu180/article/details/118940065 ) &ensp; [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )
 
 
 ---
