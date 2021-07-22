@@ -58,7 +58,7 @@
 | 16   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
 | 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
-| 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 )          | markdown编辑器，文件分享。                   |
+| 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
 | 19   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
 | 20   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )        |
 
@@ -114,7 +114,7 @@ coding--20210524
 
 ---
 
-> 笔名汉字频率分析。<br>
+> **笔名汉字频率分析** <br/>
 > 数据来自《[书法练习轨迹--明月几时有]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )》中关于本人笔名的记录。
 
 
@@ -125,37 +125,9 @@ coding--20210524
 
 <div STYLE="page-break-after: always;"></div>
 
-#### 个人账号
-
-> 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。
-
-- **个人邮箱** &ensp; 1021151991@qq.com 
-- **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
-- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) 
-
-
----
-
-<div STYLE="page-break-after: always;"></div>
-
-#### 名帖
-
-> 文徵明《小楷赤壁赋》 <br/>
-![文徵明《小楷赤壁赋》]( ./书法字帖/文徵明《小楷赤壁赋》.jpg)
-
-> 颜真卿-多宝塔碑 <br/>
-![多宝塔碑]( ./书法字帖/多宝塔碑.jpg)
-
-> 王羲之-兰亭序 <br/>
-![兰亭序]( ./书法字帖/兰亭序.jpg)
-
----
-
-<div STYLE="page-break-after: always;"></div>
-
 #### 附录
 
-```java
+```
 1、书法练习轨迹网址
 
 《书法练习轨迹--明月几时有》
@@ -290,6 +262,31 @@ gitee pages
 
 ```
 
+```
+6、名帖    
+文徵明《小楷赤壁赋》、颜真卿-多宝塔碑、王羲之-兰亭序   
+```
 
+> 文徵明《小楷赤壁赋》 <br/>
+![文徵明《小楷赤壁赋》]( ./书法字帖/文徵明《小楷赤壁赋》.jpg)
+
+> 颜真卿-多宝塔碑 <br/>
+![多宝塔碑]( ./书法字帖/多宝塔碑.jpg)
+
+> 王羲之-兰亭序 <br/>
+![兰亭序]( ./书法字帖/兰亭序.jpg)
+
+
+---
+
+#### 个人账号
+
+> 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。
+
+- **个人邮箱** &ensp; 1021151991@qq.com 
+- **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
+- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) 
+
+***
 
 
