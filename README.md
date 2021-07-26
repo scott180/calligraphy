@@ -110,9 +110,10 @@ coding--20210524
 --20210721
 
 
-github网页还是看不了，csdn_code图片突然打不开，再看看有啥git平台。
-在bitbucket平台备份书法练习轨迹文档及图片。此平台网速还行，可建立私有仓库，但是对于markdown文件兼容的不理想，有些html标签不能识别，文件渲染不美观。
-bitbucket--20210724
+github网页还是看不了，csdn_code图片突然打不开，再看看还有啥git平台。
+发现bitbucket，在此再备份书法练习轨迹文档及图片。
+此平台网速还行，可建立私有仓库，但是对于markdown文件兼容的不理想，有些html标签不能识别，网页渲染不美观。
+bitbucket--20210726
 
 ```
 
@@ -296,7 +297,7 @@ gitee pages
 
 - **个人邮箱** &ensp; 1021151991@qq.com 
 - **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
-- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) 
+- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [bitbucket]( https://bitbucket.org/xu12345/calligraphy )
 
 ***
 
