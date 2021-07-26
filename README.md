@@ -43,24 +43,25 @@
 | 3    | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			    |  备份，最流行git仓库。国外网站，但有时打不开。   |
 | 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
 | 5    | [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [imgs]( https://gitee.com/xy180/imgs )                        			|  备份，国内网站，速度快。但可能会被[屏蔽]。      |
+| 6    | [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) &ensp; [imgs]( https://bitbucket.org/xu12345/imgs )                   |  备份，国外网站。markdown渲染不太完善。          |
 | -    | **社区**                        |                                    |
-| 6    | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 ) &ensp; [ReadMe]( https://blog.csdn.net/xu180/article/details/118492424 )  |  程序员技术交流平台，发布文章，有删减。      |
-| 7    | [博客园]( https://www.cnblogs.com/scott123/p/14729493.html ) &ensp; [ReadMe]( https://www.cnblogs.com/scott123/p/14972979.html )              |  开发者知识分享社区。                        |
-| 8    | [语雀]( https://www.yuque.com/longguang123/ccgbto/cbq9u0 ) &ensp; [ReadMe]( https://www.yuque.com/longguang123/ccgbto/oby4hq )                |  文档与知识管理工具，无删减。                |
+| 7    | [csdn博客]( https://blog.csdn.net/xu180/article/details/113602103 ) &ensp; [ReadMe]( https://blog.csdn.net/xu180/article/details/118492424 )  |  程序员技术交流平台，发布文章，有删减。      |
+| 8    | [博客园]( https://www.cnblogs.com/scott123/p/14729493.html ) &ensp; [ReadMe]( https://www.cnblogs.com/scott123/p/14972979.html )              |  开发者知识分享社区。                        |
+| 9    | [语雀]( https://www.yuque.com/longguang123/ccgbto/cbq9u0 ) &ensp; [ReadMe]( https://www.yuque.com/longguang123/ccgbto/oby4hq )                |  文档与知识管理工具，无删减。                |
 | -    | **云盘**                        |                                    |
-| 9    | [坚果云]( https://www.jianguoyun.com/p/DTnLeQEQxP-NBhjNrfED ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )          |  文件分享。        |
-| 10   | [百度网盘]( https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ )        | 提取码: zpxu 。pdf文件分享，需要登录。       |
-| 11   | [阿里云盘]( https://www.aliyundrive.com/s/dKE1SMhqdwn )              | pdf文件分享，需要登录。                      |
-| 12   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
-| 13   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
-| 14   | [wps云盘]( https://www.kdocs.cn/l/cpUDGjX6765H )                     | pdf文件分享，需要登录。                      |
-| 15   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                |
-| 16   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
-| 17   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
+| 10   | [坚果云]( https://www.jianguoyun.com/p/DTnLeQEQxP-NBhjNrfED ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )          |  文件分享。        |
+| 11   | [百度网盘]( https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ )        | 提取码: zpxu 。pdf文件分享，需要登录。       |
+| 12   | [阿里云盘]( https://www.aliyundrive.com/s/dKE1SMhqdwn )              | pdf文件分享，需要登录。                      |
+| 13   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
+| 14   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
+| 15   | [wps云盘]( https://www.kdocs.cn/l/cpUDGjX6765H )                     | pdf文件分享，需要登录。                      |
+| 16   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                |
+| 17   | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
+| 18   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
 | 18   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
-| 19   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
-| 20   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )        |
+| 20   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
+| 21   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，无删减。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )        |
 
 ```
 
@@ -108,6 +109,11 @@ coding--20210524
 如感觉网速较慢或者页面加载不出来，可到第二号“csdn_code”或第十八号“作业部落”查看文档。此两处为国产软件，平台稳定，网速较快。
 --20210721
 
+
+github网页还是看不了，csdn_code图片突然打不开，再看看有啥git平台。
+在bitbucket平台备份书法练习轨迹文档及图片。此平台网速还行，可建立私有仓库，但是对于markdown文件兼容的不理想，有些html标签不能识别，文件渲染不美观。
+bitbucket--20210724
+
 ```
 
 ---
@@ -138,6 +144,7 @@ csdn_code     https://codechina.csdn.net/xu180/calligraphy
 github        https://github.com/scott180/calligraphy 
 coding        https://xyqin.coding.net/public/my/calligraphy/git
 gitee         https://gitee.com/xy180/calligraphy 
+bitbucket     https://bitbucket.org/xu12345/calligraphy
 
 **社区**                           
 csdn博客      https://blog.csdn.net/xu180/article/details/113602103
@@ -179,6 +186,7 @@ csdn_code     https://codechina.csdn.net/xu180/imgs
 github        https://github.com/scott180/imgs
 coding        https://xyqin.coding.net/public/my/imgs/git
 gitee         https://gitee.com/xy180/imgs
+bitbucket     https://bitbucket.org/xu12345/imgs
 
 ```
 
@@ -199,6 +207,9 @@ https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/20210
 
 gitee   加载快，有屏蔽
 https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
+
+bitbucket 国外网站
+https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/mingyue/2021/202107/2021072402.jpg
 
 ```
 
