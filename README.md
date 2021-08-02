@@ -10,7 +10,7 @@
 `--2020-11-11`
 
 
-此为本人书法练习历程： [书法练习轨迹--明月几时有]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )。记录每周练字情况，拍照留存及一些感想。之所以记录下来，主要是以下几点原因：  <br/>
+此为本人书法练习历程： [书法练习轨迹--明月几时有]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )。记录每周练字情况，拍照留存及一些感想。之所以记录下来，主要是以下几点原因：  <br/>
 一、是要把所写的字，由丑到美，由差到好的过程保存下来，方便对照。不想练的时候，觉得没有进步的时候，看看以前的丑字又会给自己无穷的动力：原来自己进步蛮大，天天练习还是有意义的。 <br/>
 二、是寻找志同道合者，对书法有兴趣的可以联系本人，相互交流，共同进步，所谓他山之石，可以攻玉。同时也希望书法大师不吝赐教，光临指导。 <br/>
 三、炫耀+装逼，引流+宣传。毕竟人生在世，名利二字。当然肯定是一年半载甚至三年五载，小有所成之后才能晒图，发朋友圈，示字与人。 <br/>
@@ -62,7 +62,8 @@
 | -    | **网页**                        |                                    |
 | 20   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
 | 21   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | gitee静态网页，markdown转html。 |
-| 22   | [**github_pages**]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )        |
+| 22   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )        |
+| 23   | [**gitlab_pages**]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )   | gitlab静态网页，markdown转html。|
 
 ```
 
@@ -97,7 +98,7 @@ coding--20210524
 以后字写好了能见人了再拿出来到头条、豆瓣、知乎等高流量渠道晒图、晒字。
 所谓十年磨一剑，砺得梅花香。
 
-如有游客想浏览本人的书法练习轨迹，可点击上面表格首尾行加粗部分gitlab、github_pages，这两处前者内容最全面，后者格式最美观。
+如有游客想浏览本人的书法练习轨迹，可点击上面表格首尾行加粗部分gitlab、gitlab_pages，这两处前者内容最全面，后者格式最美观。
 
 以上 --20210527
 
@@ -123,7 +124,7 @@ bitbucket--20210726
 ---
 
 > **笔名汉字频率分析** <br/>
-> 数据来自《[书法练习轨迹--明月几时有]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )》中关于本人笔名的记录。
+> 数据来自《[书法练习轨迹--明月几时有]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )》中关于本人笔名的记录。
 
 
 - **链接** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy/-/blob/master/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90.md ) &ensp; [语雀]( https://www.yuque.com/longguang123/ccgbto/flt0hf ) &ensp; [作业部落]( https://www.zybuluo.com/scott180/note/1809817 ) &ensp; [csdn]( https://blog.csdn.net/xu180/article/details/118940065 ) &ensp; [github_pages]( https://scott180.github.io/calligraphy/%E7%AC%94%E5%90%8D%E6%B1%89%E5%AD%97%E9%A2%91%E7%8E%87%E5%88%86%E6%9E%90 )
@@ -171,6 +172,7 @@ google云盘    https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNf
 作业部落      https://www.zybuluo.com/scott180/note/1793757
 gitee_pages   http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
 github_pages  https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89
+gitlab_pages  https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
 
 ---------
 
@@ -260,7 +262,7 @@ https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/
 ```
 
 ```
-5、github、gitee静态网页发布 
+5、github、gitee、gitlab静态网页发布 
 
 github pages 
 位置：Setting - GitHub Pages - Save
@@ -275,6 +277,33 @@ gitee pages
 不足：无主题可选；markdown会还原成纯文本，需要转成html文件；提交新代码后每次需手动更新才能发布新文件。
 备注：有时服务改造，无法启动。
 
+
+--- 
+
+
+gitlab pages   
+gitlab布署网页与gitee、github不一样，无需启动。只要添加文件即可。
+1、添加  .gitlab-ci.yml 文件 。
+2、创建public文件夹，并将html文件上传到此处。
+3、推送文件。在gitlab项目 CI/CD --> Jobs 查看是否布署成功。
+4、访问页面。如 ：  https://xuyq123.gitlab.io/plain/index.html
+
+参考项目： https://gitlab.com/xuyq123/plain
+
+--- 
+
+.gitlab-ci.yml 文件
+
+pages:
+  stage: deploy
+  script:
+  - echo 'Nothing to do...'
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+   
 ```
 
 ```
