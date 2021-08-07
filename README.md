@@ -61,7 +61,7 @@
 | 19   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
 | 20   | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
-| 21   | [gitee_pages]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
+| 21   | [gitee_pages]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
 | 22   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [ReadMe]( https://scott180.github.io/calligraphy ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )  |
 | 23   | [**gitlab_pages**]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html )  &ensp; [ReadMe]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html )     | gitlab静态网页，markdown转html。       |
 
@@ -78,8 +78,8 @@
 | -----  | -------------------------------------------------------------      |  -----------------------------------         |
 | gitlab | [plain-mkdocs]( https://gitlab.com/xuyq123/plain-mkdocs ) &ensp; [**网页**]( https://xuyq123.gitlab.io/plain-mkdocs ) <br/>[plain-pip-mkdocs]( https://gitlab.com/xuyq123/plain-pip-mkdocs ) &ensp; [网页]( https://xuyq123.gitlab.io/plain-pip-mkdocs )  <br/>[plain-mkdocs-gitbook]( https://gitlab.com/xuyq123/plain-mkdocs-gitbook ) &ensp; [网页]( https://xuyq123.gitlab.io/plain-mkdocs-gitbook )            |  gitlab布署mkdocs：配置文件.gitlab-ci.yml。    |
 | github | [plain-mkdocs]( https://github.com/scott180/plain-mkdocs ) &ensp; [网页](  https://scott180.github.io/plain-mkdocs/ ) <br/>[plain-pip-mkdocs]( https://github.com/scott180/plain-pip-mkdocs ) &ensp; [网页]( https://scott180.github.io/plain-pip-mkdocs )  <br/>[plain-mkdocs-serve]( https://github.com/scott180/plain-mkdocs-serve )  &ensp; [网页]( https://scott180.github.io/plain-mkdocs-serve )              |  github布署mkdocs：命令mkdocs gh-deploy 。           |
-| gitee  |  [plain-mkdocs]( https://gitee.com/xy180/imgs/tree/plain-mkdocs/ ) &ensp; [网页](  http://xy180.gitee.io/imgs/ )                            |  gitee布署mkdocs：布署site目录。               |
-| note-mkdocs   | gitlab [note-mkdocs]( https://gitlab.com/xuyq123/note-mkdocs )&ensp; [**网页**](  https://xuyq123.gitlab.io/note-mkdocs/ ) &ensp; &ensp; [note-pip-mkdocs]( https://gitlab.com/xuyq123/note-pip-mkdocs )&ensp; [网页](  https://xuyq123.gitlab.io/note-pip-mkdocs/ ) <br/>github [note-mkdocs]( https://github.com/scott180/note-mkdocs )&ensp; [网页](  https://scott180.github.io/note-mkdocs/ )  |  个人笔记，含书法练习及java笔记。                        |
+| gitee  |  [plain-mkdocs]( https://gitee.com/xy180/plain-mkdocs ) &ensp; [网页1]( http://xy180.gitee.io/plain-mkdocs/1/site/ ) &ensp; [网页2]( http://xy180.gitee.io/plain-mkdocs/2/site/ ) &ensp; [网页3]( http://xy180.gitee.io/plain-mkdocs/3/site/ )                                  |  gitee布署mkdocs：mkdocs build 布署目录。    |
+| note-mkdocs   | gitlab [note-mkdocs]( https://gitlab.com/xuyq123/note-mkdocs )&ensp; [**网页**](  https://xuyq123.gitlab.io/note-mkdocs/ ) &ensp; &ensp; [note-pip-mkdocs]( https://gitlab.com/xuyq123/note-pip-mkdocs )&ensp; [网页](  https://xuyq123.gitlab.io/note-pip-mkdocs/ ) <br/>github [note-mkdocs]( https://github.com/scott180/note-mkdocs )&ensp; [网页](  https://scott180.github.io/note-mkdocs/ )<br/>gitee [plain-mkdocs]( https://gitee.com/xy180/plain-mkdocs/tree/master/note )&ensp; [网页](  http://xy180.gitee.io/plain-mkdocs/note/site/ )       |  个人笔记，含书法练习及java笔记。                        |
 
 
 ---
@@ -167,7 +167,7 @@ bitbucket--20210726
 | 3    | [coding]( https://e.coding.net/login ) | [calligraphy]( https://xyqin.coding.net/p/my/d/calligraphy/git ) | [public]( https://xyqin.coding.net/public/my/calligraphy/git/files ) | - | `https://e.coding.net/xyqin/my/calligraphy.git` | `git@e.coding.net:xyqin/my/calligraphy.git` | [2021042601.jpg]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/mingyue/2021/202105/2021042601.jpg ) |
 | 4    | [bitbucket]( https://bitbucket.org/product/ ) | [calligraphy]( https://bitbucket.org/xu12345/calligraphy ) | - | - | `https://bitbucket.org/xu12345/calligraphy.git` | `git@bitbucket.org:xu12345/calligraphy.git` | [2021072402.jpg]( https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/mingyue/2021/202107/2021072402.jpg ) |
 | 5    | [github]( https://github.com/scott180 ) | [calligraphy]( https://github.com/scott180/calligraphy ) | [书法练习轨迹]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) | [plain-mkdocs]( https://scott180.github.io/plain-mkdocs/ ) | `https://github.com/scott180/calligraphy.git` | `git@github.com:scott180/calligraphy.git` | [2021042501.jpg]( https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/2021042501.jpg ) |
-| 6    | [gitee]( https://gitee.com/xy180 ) | [calligraphy]( https://gitee.com/xy180/calligraphy ) | [书法练习轨迹]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | [plain-mkdocs]( http://xy180.gitee.io/imgs/ ) | `https://gitee.com/xy180/calligraphy.git` | `git@gitee.com:xy180/calligraphy.git` | [2021040202.jpg]( https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg ) |
+| 6    | [gitee]( https://gitee.com/xy180 ) | [calligraphy]( https://gitee.com/xy180/calligraphy ) | [书法练习轨迹]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) | [plain-mkdocs]( http://xy180.gitee.io/plain-mkdocs/1/site ) | `https://gitee.com/xy180/calligraphy.git` | `git@gitee.com:xy180/calligraphy.git` | [2021040202.jpg]( https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg ) |
 
 
 ```
@@ -204,7 +204,7 @@ google云盘    https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNf
  
 **网页**                       
 作业部落      https://www.zybuluo.com/scott180/note/1793757
-gitee_pages   http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
+gitee_pages   http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
 github_pages  https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89
 gitlab_pages  https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html
 
@@ -217,7 +217,7 @@ csdn博客      https://blog.csdn.net/xu180/article/details/118492424
 语雀          https://www.yuque.com/longguang123/ccgbto/oby4hq
 飞书          https://nal4j8dwi0.feishu.cn/docs/doccnpf5pWihfu3aW4psk5vO7ue
 作业部落	  https://www.zybuluo.com/scott180/note/892814
-gitee_pages   http://xy180.gitee.io/imgs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html
+gitee_pages   http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html
 github_pages  https://scott180.github.io/calligraphy
 gitlab_pages  https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html
  
@@ -256,13 +256,14 @@ plain-mkdocs
 
 	
 gitee mkdocs主题仓库	
-	https://gitee.com/xy180/imgs/tree/plain-mkdocs/ 	
-	http://xy180.gitee.io/imgs/
+	https://gitee.com/xy180/plain-mkdocs/ 	
+	http://xy180.gitee.io/plain-mkdocs/1/site
 	
 	
 note-mkdocs   个人笔记，含书法练习及java笔记。
 	https://gitlab.com/xuyq123/note-mkdocs    https://xuyq123.gitlab.io/note-mkdocs/
 	https://github.com/scott180/note-mkdocs   https://scott180.github.io/note-mkdocs/
+	https://gitee.com/xy180/plain-mkdocs/tree/master/note   http://xy180.gitee.io/plain-mkdocs/note/site
 
 
 ```
@@ -412,14 +413,23 @@ pages:
 
 ---
 
-##### 6、github、gitee、gitlab布署mkdocs主题仓库 
+##### 6、gitlab、github、gitee布署mkdocs主题仓库
+
 
 ```
-mkdocs介绍
+mkdocs作用
+在git平台创建mkdocs主题仓库，自动将markdown文件生成静态网页。 
+
 官网  https://www.mkdocs.org/
 简介&主题   https://www.jianshu.com/p/c005c45abe85
 gitlab-mkdocs  https://gitlab.com/pages/mkdocs
 github-mkdocs-theme  https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+
+```
+
+```
+python安装及下载  https://gitlab.com/xuyq123/mynotes/-/blob/master/Python.md
+mkdocs安装     pip install mkdocs
 
 ```
 
@@ -434,43 +444,54 @@ gitlab mkdocs主题仓库 （推送文件自动布署）
 本地调试：
 	安装 python 及 mkdocs 
 	相关命令 
-		 pip install mkdocs
+		 pip install mkdocs      安装mkdocs
+		 python -m pip install --upgrade pip     更新Python
+		 
 		 mkdocs new my-project
 		 mkdocs serve
 		 mkdocs build
+
+参考：
+	https://cloud.tencent.com/developer/article/1662592
+	https://blog.csdn.net/qq_32332433/article/details/106148965
+	
+	
+------	
+	 
 		 
-	主题安装
-		pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs-Bootswatch      安装多个主题
-		pip install --trusted-host pypi.douban.com -i http://pypi.douban.com/simple/ mkdocs mkdocs-material   安装material主题
-		pip install --trusted-host pypi.douban.com -i http://pypi.douban.com/simple/ mkdocs mkdocs-gitbook    安装gitbook主题
+主题安装
+	pip install -i https://pypi.tuna.tsinghua.edu.cn/simple mkdocs-Bootswatch      安装多个主题
+	pip install --trusted-host pypi.douban.com -i http://pypi.douban.com/simple/ mkdocs mkdocs-material   安装material主题
+	pip install --trusted-host pypi.douban.com -i http://pypi.douban.com/simple/ mkdocs mkdocs-gitbook    安装gitbook主题
+	
+	pip install mkdocs-cluster   
+	pip install mkdocs-cinder      
+	pip install mkdocs-bootstrap4
 		
-		pip install mkdocs-cluster   
-		pip install mkdocs-cinder      
-		pip install mkdocs-bootstrap4
 		
-					
+主题种类					
 The available installed themes are: readthedocs, cluster, lumen, flatly, yeti, material, cosmo, litera, sandstone, darkly, lux, minty, superhero, 
 gitbook, spacelab, cinder, pulse, mkdocs, cerulean, bootstrap, solar, journal, simplex, slate, materia, bootstrap4, ivory, cyborg, united
 
 
-	主题总结
+
+主题总结
 	mkdocs      默认主题，速度极快。菜单横向。蓝边白底。不够美观。     评级四星。
 	material    速度一般。菜单竖向，左侧整体文件结构，右侧文件目录。紫边白底。   评级四星。
-	readthedocs 速度一般。菜单竖向。展示markdown文件目录结构。黑边白底。    评级四星。
+	readthedocs 速度一般。菜单竖向。展示markdown文件目录结构。黑边白底。  评级四星。
 	sandstone   加载挺快。菜单横向。黑边白底。    评级四星。
+	litera      加载挺快。菜单横向。天蓝边白底。  评级四星。
+	lumen       加载挺快。菜单横向。海蓝边白底。  评级四星。
 	spacelab    加载挺快。菜单横向。深蓝边白底。  评级四星。
 	cluster	    加载挺快。菜单横向。灰边白底。    评级四星。
 	slate	    加载挺快。菜单横向。黑边黑底。    评级四星。
-	united	    加载挺快。菜单横向。红边白底。    评级四星。
+	simplex	    加载挺快。菜单横向。深红边白底。  评级四星。
+	united	    加载挺快。菜单横向。橙红边白底。  评级四星。
 	cinder	    速度一般，不显示文件夹中的下拉文档。展示markdown文件目录结构。菜单横向。黑边白底。适合单级目录文件。   评级三星。
-	bootstrap4  速度相当慢。菜单横向。黑边白底。     评级二星。
+	bootstrap4  速度相当慢。菜单横向。黑边白底。  评级二星。
 	gitbook     速度一般。菜单竖向，灰边白底。有版权广告去不掉。   评级二星。
-	ivory       速度相当慢。菜单竖向，黑边白底。   评级二星。
-	
-	
-参考：
-	https://cloud.tencent.com/developer/article/1662592
-	https://blog.csdn.net/qq_32332433/article/details/106148965
+	ivory       速度相当慢。菜单竖向，黑边白底。  评级二星。
+
 	
 ```
 
@@ -494,14 +515,14 @@ github mkdocs主题仓库 （mkdocs gh-deploy 一键布署）
 ```
 
 ```
-gitee mkdocs主题仓库 （GiteePages服务布署site目录）
+gitee mkdocs主题仓库 （GiteePages服务布署目录）
 创建方法：
    1、创建 mkdocs.yml。创建docs目录，markdown文件放在此处。
    2、本地调试 mkdocs serve   访问：http://127.0.0.1:8000/  。
    3、mkdocs build  生成静态文件，于 site 文件夹中。
    4、推送 mkdocs.yml 、docs、site到仓库。
-   5、开启GiteePages服务，选择对应分支，部署目录为：site 。
-   可参考此仓库 https://gitee.com/xy180/imgs/tree/plain-mkdocs/ 	http://xy180.gitee.io/imgs/
+   5、开启GiteePages服务，选择对应分支。
+   可参考此仓库 https://gitee.com/xy180/plain-mkdocs 	http://xy180.gitee.io/plain-mkdocs/1/site
    
 本地调试：
 	安装 python 及 mkdocs 
@@ -513,6 +534,8 @@ gitee mkdocs主题仓库 （GiteePages服务布署site目录）
 	https://www.cnblogs.com/yywBlogW/p/11362889.html
 
 ```
+
+---
 
 ---
 
