@@ -486,7 +486,7 @@ pages:
 
 ---
 
-> 注册了微信公众号：**无为徐生**，以后会将书法练习轨迹以及本人做程序员的笔记更新在此处。若有兴趣，可扫码关注。--202108
+> 注册了微信公众号：**无为徐生**，以后会将书法练习轨迹、程序员笔记及一些随笔感想更新在此处。若有兴趣，可扫码关注。
 
 ![wuweixusheng]( https://codechina.csdn.net/xu180/document/-/raw/master/imgs/weixin/wuweixusheng.png )
 
