@@ -1,6 +1,6 @@
-## 书法练习轨迹ReadMe
+# 书法练习轨迹ReadMe
 
-#### 一、自序
+## 一、自序
 
 幼时接触书法，学而未成。 <br/>
 二零二零庚子年九月底，有感大丈夫处身立世必有一技之长。 <br/>
@@ -24,7 +24,7 @@
 
 <div STYLE="page-break-after: always;"></div>
 
-#### 二、书法练习轨迹网址
+## 二、书法练习轨迹网址
 
 > 若无意外，一般每周一在gitlab《**书法练习轨迹--明月几时有**》记录上周练习情况。其他渠道，不定时同步。
 
@@ -74,7 +74,7 @@
 而且全世界最流行的git平台是github，于是二零二零年十一月将文件备份到此处，gitee为主github为辅。
 
 但是github是境外网站，网速慢，经常打不开。于是又找了个国产git平台-csdn_code，将资料再备份一份到此处。
-这个git平台虽然建立时间端，知名度低，用户少，但是网速挺快，限制也少，不怎么屏蔽关键字。
+这个git平台虽然建立时间短，知名度低，用户少，但是网速挺快，限制也少，不怎么屏蔽关键字。
 
 再后来觉得狡兔三窟，互联网这玩意不是特别靠谱，说不定哪天网站会被封或者停止服务，多找些地方备份总是没错的。
 于是网上搜索常用git平台仓库，将书法练习资料又备份到gitlab和coding。这五个平台同时保存书法练习相关资料和图片。
@@ -142,6 +142,12 @@ bitbucket--20210726
 
 > git平台docsify主题仓库
 
+```
+docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页。
+但是docsify布署更简单一点。且布署的文件有多级目录，更易查看。
+两种布署方法可见附录5。
+```
+
 | 名称       | 仓库                                                			        |  备注            |
 | ---------  | -------------------------------------------------------------        |  ----------      |
 | docsify   | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify )&ensp; [**网页**](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify )&ensp; [网页](  https://scott180.github.io/plain-docsify/ ) |  笔记docsify                        |
@@ -163,9 +169,9 @@ bitbucket--20210726
 
 <div STYLE="page-break-after: always;"></div>
 
-#### 三、附录
+## 三、附录
 
-##### 1、书法练习轨迹链接
+### 1、书法练习轨迹链接
 
 > git平台 官网  项目地址 静态网页 mkdocs网页 HTTPS  SSH  图片地址  
 
@@ -225,7 +231,7 @@ csdn博客      https://blog.csdn.net/xu180/article/details/118492424
 博客园        https://www.cnblogs.com/scott123/p/14972979.html
 语雀          https://www.yuque.com/longguang123/ccgbto/oby4hq
 飞书          https://nal4j8dwi0.feishu.cn/docs/doccnpf5pWihfu3aW4psk5vO7ue
-作业部落	  https://www.zybuluo.com/scott180/note/892814
+作业部落      https://www.zybuluo.com/scott180/note/892814
 gitee_pages   http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html
 github_pages  https://scott180.github.io/calligraphy
 gitlab_pages  https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html
@@ -276,11 +282,17 @@ note-mkdocs   个人笔记，含书法练习及java笔记。
 
 
 docsify主题仓库 	
+plain-docsify
 	https://gitlab.com/xuyq123/plain-docsify 
 	https://xuyq123.gitlab.io/plain-docsify/
-	
 	https://github.com/scott180/plain-docsify
 	https://scott180.github.io/plain-docsify/ 
+
+myblog-docsify	
+	https://gitlab.com/xuyq123/myblog-docsify 
+	https://xuyq123.gitlab.io/myblog-docsify/
+	https://github.com/scott180/myblog-docsify
+	https://scott180.github.io/myblog-docsify/ 
 
 	
 古文诗词
@@ -295,7 +307,7 @@ https://www.cnblogs.com/scott123/p/15141189.html
 
 ----
 
-##### 2、各git仓库图片链接
+### 2、各git仓库图片链接
 
 ```
 2、各git仓库图片链接
@@ -322,7 +334,7 @@ https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/
 
 ---
 
-##### 3、如何将markdown文件导出为带图片的PDF 
+### 3、如何将markdown文件导出为带图片的PDF 
 
 ```
 3、如何将markdown文件导出为带图片的PDF （《书法练习轨迹--明月几时有》是markdown文件）
@@ -340,7 +352,7 @@ https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/
 
 ---
 
-##### 4、github、gitee 仓库小问题
+### 4、github、gitee 仓库小问题
 
 ```
 4、github、gitee 仓库小问题
@@ -388,7 +400,7 @@ https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/
 
 ---
 
-##### 5、git静态网页发布 
+### 5、git静态网页发布 
 
 > [gitlab、github、gitee布署mkdocs主题仓库]( 
 https://gitlab.com/xuyq123/mynotes/-/blob/master/gitlab%E3%80%81github%E3%80%81gitee%E5%B8%83%E7%BD%B2mkdocs%E4%B8%BB%E9%A2%98%E4%BB%93%E5%BA%93.md ) &ensp; &ensp; [git平台docsify布署markdown文件]( https://gitlab.com/xuyq123/mynotes/-/blob/master/git%E5%B9%B3%E5%8F%B0docsify%E5%B8%83%E7%BD%B2markdown%E6%96%87%E4%BB%B6.md )
@@ -444,7 +456,7 @@ pages:
 
 ---
 
-##### 6、名帖    
+### 6、名帖    
 
 ```
 6、名帖    
@@ -462,14 +474,21 @@ pages:
 
 ---
 
-#### 四、个人账号
+## 四、个人账号
 
-> 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。
+> 若有志同道合的小伙伴想联系本人，可通过以下方式发邮件或私信。路漫漫其修远兮，吾将上下而求索。共勉。--202107
 
+- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) &ensp; [gitlab_docsify]( https://xuyq123.gitlab.io/plain-docsify/ )
 - **个人邮箱** &ensp; 1021151991@qq.com 
 - **资讯账号** &ensp; [头条]( https://www.toutiao.com/c/user/token/MS4wLjABAAAA2_bWhiknCbcKNu4c6VTM2B7m2vr7zBrh0x6fSyOrtGU ) &ensp;  [豆瓣]( https://www.douban.com/people/80730595/photos ) &ensp;  [知乎]( https://www.zhihu.com/people/xu-xian-sheng-72-29/posts ) &ensp; 
-- **项目仓库** &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [github]( https://github.com/scott180/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) &ensp; [gitlab_docsify]( https://xuyq123.gitlab.io/plain-docsify/ )
 
+---
+
+---
+
+> 注册了微信公众号：**无为徐生**，以后会将书法练习轨迹以及本人做程序员的笔记更新在此处。若有兴趣，可扫码关注。--202108
+
+![wuweixusheng]( https://codechina.csdn.net/xu180/document/-/raw/master/imgs/weixin/wuweixusheng.png )
 
 ***
 
