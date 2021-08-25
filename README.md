@@ -67,6 +67,14 @@
 
 ---
 
+> 书法练习轨迹--明月几时有-简洁版 <br/>
+
+| 序号 | 1    | 2    | 3    | 4    | 5    | 6    |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  **链接**   | [微信公众号]( https://mp.weixin.qq.com/s/HmdDsCaeumuZg_DfitIdlw ) |  [知乎]( https://zhuanlan.zhihu.com/p/403400860 )  | [语雀]( https://www.yuque.com/longguang123/ccgbto/dm3duy ) | [豆瓣]( https://www.douban.com/note/811096721/ )   | [博客园]( https://www.cnblogs.com/scott123/p/15184752.html )   | [csdn]( https://blog.csdn.net/xu180/article/details/119910067 )   |
+
+---
+
 ```
 
 自二零二零年九月底练习书法以来，刚开始一直在gitee仓库记录更新每周练习情况，毕竟这是国产网站，还是要支持的。
@@ -302,6 +310,15 @@ https://www.jianshu.com/p/1c8613c90c7c
 https://www.zybuluo.com/scott180/note/1815061
 https://www.douban.com/note/810205173/
 https://www.cnblogs.com/scott123/p/15141189.html	
+
+
+书法练习轨迹--明月几时有-简洁版
+https://zhuanlan.zhihu.com/p/403400860
+https://www.jianshu.com/p/af695e39963a
+https://www.douban.com/note/811096721/
+https://www.cnblogs.com/scott123/p/15184752.html
+https://blog.csdn.net/xu180/article/details/119910067
+
 
 ```
 
