@@ -501,12 +501,12 @@ pages:
 
 ---
 
----
-
-> 注册了微信公众号：**无为徐生**，以后会将书法练习轨迹、程序员笔记及一些随笔感想更新在此处。若有兴趣，可扫码关注。
-
-![wuweixusheng]( https://codechina.csdn.net/xu180/document/-/raw/master/imgs/weixin/wuweixusheng.png )
-
 ***
 
+> 注册了微信公众号及今日头条号：**无为徐生**，以后会将书法练习轨迹、程序员笔记以及一些随笔感想更新在此。若有兴趣，可扫码关注。
+
+| 无为徐生       | 微信公众号                                                			        |  今日头条号           |
+| ---------  | -------------------------------------------------------------        |  ----------      |
+|  二维码   | ![plain-docsify]( https://codechina.csdn.net/xu180/document/-/raw/master/imgs/weixin/无为徐生.png ) |  ![plain-docsify]( https://codechina.csdn.net/xu180/document/-/raw/master/imgs/toutiao/无为徐生.png )                        |
+***
 
