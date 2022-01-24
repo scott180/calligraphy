@@ -50,7 +50,7 @@
 | 序号 | 仓库                                                			      |  备注             			                 |
 | ---  | -------------------------------------------------------------        |  -----------------------------------         |
 | 1    | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。                            |
-| 2    | [csdn_code]( https://codechina.csdn.net/xu180/calligraphy ) &ensp; [imgs]( https://codechina.csdn.net/xu180/imgs )  			|  备份，国内网站，速度快。用户较少。        	   |
+| 2    | [sourceforge]( https://sourceforge.net/p/calligraphy/code ) &ensp; [imgs]( https://sourceforge.net/p/calligraphy/imgs )  		|  备份，网速较快，可保存公开资料。        	       |
 | 3    | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			    |  备份，最流行git仓库。国外网站，但有时打不开。   |
 | 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
 | 5    | [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [imgs]( https://gitee.com/xy180/imgs )                        			|  备份，国内网站，速度快。但可能会被[屏蔽]。      |
@@ -136,7 +136,12 @@ bitbucket--20210726
 旧地址  https://codechina.csdn.net/xu180/calligraphy  
 新地址  https://gitcode.net/xu180/calligraphy
 旧地址会自动跳转到新地址。
---20220104
+GitCode--20220104
+
+
+发现在csdn的calligraphy仓库被禁，显示“当前内容涉嫌违规，暂时无法访问”。继续寻找备份者，替代者。
+发现sourgeforge不错，虽然是国外的，但是网速还行，操作不算复杂。可以建立Git仓库，保存资料。
+sourgeforge--20220124
 
 ```
 
@@ -224,6 +229,7 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 **仓库** 
 gitlab        https://gitlab.com/xuyq123/calligraphy
+sourceforge   https://sourceforge.net/p/calligraphy/code
 csdn_code     https://codechina.csdn.net/xu180/calligraphy
 github        https://github.com/scott180/calligraphy 
 coding        https://xyqin.coding.net/public/my/calligraphy/git
@@ -275,6 +281,7 @@ gitlab_pages  https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%
 书法练习轨迹图片
 
 gitlab        https://gitlab.com/xuyq123/imgs
+sourceforge   https://sourceforge.net/p/calligraphy/imgs
 csdn_code     https://codechina.csdn.net/xu180/imgs
 github        https://github.com/scott180/imgs
 coding        https://xyqin.coding.net/public/my/imgs/git
@@ -372,6 +379,9 @@ https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
 
 bitbucket 国外网站
 https://bitbucket.org/xu12345/imgs/raw/fac05f5cff30d534a7cf92a9b304b4d7f2df083b/mingyue/2021/202107/2021072402.jpg
+
+sourceforge 国外网站
+https://sourceforge.net/p/calligraphy/imgs/ci/master/tree/mingyue/2022/202201/2022012101.jpg?format=raw
 
 ```
 
@@ -511,13 +521,13 @@ pages:
 ```
 
 > 文徵明-小楷赤壁赋 <br/>
-![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/文徵明-小楷赤壁赋.jpg)
+![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/文徵明-小楷赤壁赋.jpg )
 
 > 颜真卿-多宝塔碑 <br/>
-![颜真卿-多宝塔碑]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/颜真卿-多宝塔碑.jpg)
+![颜真卿-多宝塔碑]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/颜真卿-多宝塔碑.jpg )
 
 > 王羲之-兰亭集序 <br/>
-![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg)
+![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg )
 
 ---
 
