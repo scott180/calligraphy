@@ -49,7 +49,7 @@
 
 | 序号 | 仓库                                                			      |  备注             			                 |
 | ---  | -------------------------------------------------------------        |  -----------------------------------         |
-| 1    | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。                            |
+| 1    | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。每周一在此记录。            |
 | 2    | [sourceforge]( https://sourceforge.net/p/calligraphy/code ) &ensp; [imgs]( https://sourceforge.net/p/calligraphy/imgs )  		|  备份，网速较快，可保存公开资料。        	       |
 | 3    | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			    |  备份，最流行git仓库。国外网站，但有时打不开。   |
 | 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
@@ -57,6 +57,11 @@
 | 6    | [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) &ensp; [imgs]( https://bitbucket.org/xu12345/imgs )                   |  备份，国外网站。markdown渲染不太完善。          |
 | 7    | [gitcode]( https://gitcode.net/xu180/calligraphy ) &ensp; [imgs]( https://gitcode.net/xu180/imgs )                             |  备份，csdn仓库。网速快，但偶尔会被封禁。        |
 | 8    | [codeberg]( https://codeberg.org/xuyq/calligraphy ) &ensp; [imgs]( https://codeberg.org/xuyq/imgs )                            |  备份，国外网站，速度还不错。                    |
+| -    | **内容**                        |                                    |
+| 9    | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247487244&idx=1&sn=fa21068e783c6b31a62abf71186c1b20 )     |  自媒体，每周一在此发布书法练习轨迹。            |
+| 10   | [今日头条]( https://www.toutiao.com/a7003584972175147528/ )          |  通用信息平台，看见更大的世界。              |
+| 11   | [知乎]( https://zhuanlan.zhihu.com/p/403400860 )                     |  问答社区和创作者聚集的原创内容平台。        |
+| 12   | [豆瓣]( https://www.douban.com/note/811096721/ )                     |  发现优质书影音，记录生活表达自我。          |
 
 ---
 
@@ -532,17 +537,18 @@ pages:
 ```
 高山仰止，景行行止。虽不能至，然心向往之。
    
-文徵明-小楷赤壁赋、颜真卿-多宝塔碑、王羲之-兰亭集序   
-```
+王羲之-兰亭集序、颜真卿-多宝塔碑、文徵明-小楷赤壁赋。所谓王颜文是也。
 
-> 文徵明-小楷赤壁赋 <br/>
-![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/文徵明-小楷赤壁赋.jpg )
+```
+> 王羲之-兰亭集序 <br/>
+![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg )
 
 > 颜真卿-多宝塔碑 <br/>
 ![颜真卿-多宝塔碑]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/颜真卿-多宝塔碑.jpg )
 
-> 王羲之-兰亭集序 <br/>
-![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg )
+> 文徵明-小楷赤壁赋 <br/>
+![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/文徵明-小楷赤壁赋.jpg )
+
 
 ---
 
