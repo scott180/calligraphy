@@ -220,6 +220,12 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 ---
 
+> 开通了微信小程序《书法练习轨迹》。练手项目，聊以宣传。 --202202
+
+![c]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/calligraphy-wxMiniProgram.jpg )
+
+---
+
 <div STYLE="page-break-after: always;"></div>
 
 ### 2.2、书法练习轨迹链接
@@ -265,8 +271,8 @@ csdn博客      https://blog.csdn.net/xu180/article/details/113602103
 markdown      https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED                     
 百度网盘      https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ   提取码: zpxu  
 阿里云盘      https://www.aliyundrive.com/s/dKE1SMhqdwn 
-天翼云        https://cloud.189.cn/t/RRBbumb2MB7b
-和彩云        https://caiyun.139.com/m/i?125CmrCy7hU1y          提取码:WAmq 
+天翼云        https://cloud.189.cn/t/RRBbumb2MB7b   https://cloud.189.cn/web/share?code=eaeumunI7nym
+和彩云        https://caiyun.139.com/m/i?125CmrCy7hU1y  提取码:WAmq     https://caiyun.139.com/m/i?125CludT3Pzop  提取码:JVpY
 wps云盘       https://www.kdocs.cn/l/cpUDGjX6765H 
 微云          https://share.weiyun.com/JKZ4ANJ5   
 腾讯文档      https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx 
