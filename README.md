@@ -52,10 +52,10 @@
 | 1    | [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [imgs]( https://gitlab.com/xuyq123/imgs )                 		|  国外网站，网速较慢。每周一在此记录。            |
 | 2    | [sourceforge]( https://sourceforge.net/p/calligraphy/code ) &ensp; [imgs]( https://sourceforge.net/p/calligraphy/imgs )  		|  备份，网速较快，可保存公开资料。        	       |
 | 3    | [github]( https://github.com/scott180/calligraphy ) &ensp; [imgs]( https://github.com/scott180/imgs ) 			  			    |  备份，最流行git仓库。国外网站，但有时打不开。   |
-| 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
+| 4    | [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [imgs]( https://xyqin.coding.net/public/my/imgs/git ) &ensp; [document]( https://xyqin.coding.net/public/my/document/git )	|  备份，速度快。但仓库markdown文件不渲染。		   |
 | 5    | [gitee]( https://gitee.com/xy180/calligraphy ) &ensp; [imgs]( https://gitee.com/xy180/imgs )                        			|  备份，国内网站，速度快。但可能会被[屏蔽]。      |
 | 6    | [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) &ensp; [imgs]( https://bitbucket.org/xu12345/imgs )                   |  备份，国外网站。markdown渲染不太完善。          |
-| 7    | [gitcode]( https://gitcode.net/xu180/calligraphy ) &ensp; [imgs]( https://gitcode.net/xu180/imgs )                             |  备份，csdn仓库。网速快，但偶尔会被封禁。        |
+| 7    | [gitcode]( https://gitcode.net/xu180/calligraphy ) &ensp; [imgs]( https://gitcode.net/xu180/imgs ) &ensp; [document]( https://gitcode.net/xu180/document )                        |  备份，csdn仓库。网速快，但偶尔会被封禁。        |
 | 8    | [codeberg]( https://codeberg.org/xuyq/calligraphy ) &ensp; [imgs]( https://codeberg.org/xuyq/imgs )                            |  备份，国外网站，速度还不错。                    |
 | -    | **内容**                        |                                    |
 | 9    | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247487244&idx=1&sn=fa21068e783c6b31a62abf71186c1b20 )     |  自媒体，每周一在此发布书法练习轨迹。            |
@@ -391,9 +391,11 @@ https://gitlab.com/xuyq123/imgs/-/raw/master/mingyue/2021/202105/2021050202.jpg
 
 coding  加载快，无屏蔽
 https://xyqin.coding.net/p/my/d/imgs/git/raw/master/mingyue/2021/202105/2021042601.jpg
+https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniProgram/calligraphy-wxMiniProgram.jpg
 
-csdn_code  加载快，无屏蔽
-https://codechina.csdn.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg
+gitcode  加载快，无屏蔽
+https://gitcode.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg
+https://gitcode.net/xu180/document/-/raw/master/imgs/weixin/calligraphy-wxMiniProgram.jpg
 
 github  国外网站，加载慢
 https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/2021042501.jpg
