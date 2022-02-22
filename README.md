@@ -188,8 +188,8 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 | 名称       | 仓库                                                			        |  备注            |
 | ---------  | -------------------------------------------------------------        |  ----------      |
-| plain-docsify    | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify )&ensp; [**网页**](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify )&ensp; [网页](  https://scott180.github.io/plain-docsify/ ) |  笔记docsify                        |
-| myblog-docsify   | gitlab [myblog-docsify]( https://gitlab.com/xuyq123/myblog-docsify )&ensp; [**网页**](  https://xuyq123.gitlab.io/myblog-docsify/ ) <br/>github [myblog-docsify]( https://github.com/scott180/myblog-docsify )&ensp; [网页](  https://scott180.github.io/myblog-docsify/ ) |  笔记与博客docsify                  |
+| plain-docsify    | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify ) &ensp; [**网页**](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify ) &ensp; [网页](  https://scott180.github.io/plain-docsify/ ) |  笔记docsify                        |
+| myblog-docsify   | gitlab [myblog-docsify]( https://gitlab.com/xuyq123/myblog-docsify ) &ensp; [**网页**](  https://xuyq123.gitlab.io/myblog-docsify/ ) <br/>github [myblog-docsify]( https://github.com/scott180/myblog-docsify ) &ensp; [网页](  https://scott180.github.io/myblog-docsify/ ) |  笔记与博客docsify                  |
 
 ---
 
@@ -220,7 +220,7 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 ---
 
-> 开通了微信小程序《书法练习轨迹》。练手项目，聊以宣传。 --202202
+> 开通了微信小程序《书法练习轨迹》。练手项目，聊以宣传。 [calligraphy-wxMiniProgram]( https://github.com/scott180/calligraphy-wxMiniProgram )  --202202
 
 ![c]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/calligraphy-wxMiniProgram.jpg )
 
