@@ -220,7 +220,7 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 ---
 
-> 开通了微信小程序《书法练习轨迹》。练手项目，聊以宣传。 [calligraphy-wxMiniProgram]( https://github.com/scott180/calligraphy-wxMiniProgram )  --202202
+> 开通了微信小程序《书法练习轨迹》。练手项目，学习技术。聊以宣传，延伸轨迹。 [calligraphy-wxMiniProgram]( https://github.com/scott180/calligraphy-wxMiniProgram )  --202202
 
 ![c]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/calligraphy-wxMiniProgram.jpg )
 
@@ -252,9 +252,9 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 **仓库** 
 gitlab        https://gitlab.com/xuyq123/calligraphy
 sourceforge   https://sourceforge.net/p/calligraphy/code
-csdn_code     https://codechina.csdn.net/xu180/calligraphy
+gitcode       https://gitcode.net/xu180/calligraphy  https://gitcode.net/xu180/document
 github        https://github.com/scott180/calligraphy 
-coding        https://xyqin.coding.net/public/my/calligraphy/git
+coding        https://xyqin.coding.net/public/my/calligraphy/git  https://xyqin.coding.net/public/my/document/git
 gitee         https://gitee.com/xy180/calligraphy 
 bitbucket     https://bitbucket.org/xu12345/calligraphy
 codeberg      https://codeberg.org/xuyq/calligraphy
