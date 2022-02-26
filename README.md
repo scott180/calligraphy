@@ -249,6 +249,8 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 | 6    | [gitee]( https://gitee.com/xy180 ) | [calligraphy]( https://gitee.com/xy180/calligraphy ) | [书法练习轨迹]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) |  - | [plain-mkdocs]( http://xy180.gitee.io/plain-mkdocs/1/site ) | `https://gitee.com/xy180/calligraphy.git` | `git@gitee.com:xy180/calligraphy.git` | [2021040202.jpg]( https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg ) |
 | 7    | [sourceforge]( https://sourceforge.net/ ) | [calligraphy]( https://sourceforge.net/p/calligraphy/code ) | - | - | - |  `https://scott123@git.code.sf.net/p/calligraphy/code calligraphy-code` | `ssh://scott123@git.code.sf.net/p/calligraphy/code calligraphy-code` | [2022012001.jpg]( https://sourceforge.net/p/calligraphy/imgs/ci/master/tree/mingyue/2022/202201/2022012001.jpg?format=raw ) |
 | 8    | [codeberg]( https://codeberg.org ) | [calligraphy]( https://codeberg.org/xuyq/calligraphy ) | - | - | - |  `https://codeberg.org/xuyq/calligraphy.git` | `git@codeberg.org:xuyq/calligraphy.git` | [2022012101.jpg]( https://codeberg.org/xuyq/imgs/raw/branch/master/mingyue/2022/202201/2022012101.jpg ) |
+| 9    | [gitea]( https://gitea.com ) | [calligraphy]( https://gitea.com/xuyq/calligraphy ) | - | - | - |  `https://gitea.com/xuyq/calligraphy.git` | `git@gitea.com:xuyq/calligraphy.git` | [caotangshizhi1.jpg]( https://gitea.com/xuyq/document/raw/branch/master/imgs/shufa/caotangshizhi/1.jpg ) |
+| 10   | [agit]( https://agit.ai ) | [calligraphy]( https://agit.ai/xuyq/calligraphy ) | - | - | - |  `https://agit.ai/xuyq/calligraphy.git` | `git@agit.ai:xuyq/calligraphy.git` | [xinjing.jpg]( https://agit.ai/xuyq/document/raw/branch/master/imgs/shufa/xinjing/cheng.jpg ) |
 
 
 ```
@@ -557,13 +559,13 @@ pages:
 
 ```
 > 王羲之-兰亭集序 <br/>
-![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/王羲之-兰亭集序.jpg )
+![王羲之-兰亭集序]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/王羲之-兰亭集序.jpg )
 
 > 颜真卿-多宝塔碑 <br/>
-![颜真卿-多宝塔碑]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/颜真卿-多宝塔碑.jpg )
+![颜真卿-多宝塔碑]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/颜真卿-多宝塔碑.jpg )
 
 > 文徵明-小楷赤壁赋 <br/>
-![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/%E4%B9%A6%E6%B3%95%E5%AD%97%E5%B8%96/文徵明-小楷赤壁赋.jpg )
+![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/文徵明-小楷赤壁赋.jpg )
 
 
 ---
