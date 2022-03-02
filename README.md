@@ -195,8 +195,9 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 | 名称       | 仓库                                                			        |  备注            |
 | ---------  | -------------------------------------------------------------        |  ----------      |
-| plain-docsify    | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify ) &ensp; [**网页**](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify ) &ensp; [网页](  https://scott180.github.io/plain-docsify/ ) |  笔记docsify                        |
-| myblog-docsify   | gitlab [myblog-docsify]( https://gitlab.com/xuyq123/myblog-docsify ) &ensp; [**网页**](  https://xuyq123.gitlab.io/myblog-docsify/ ) <br/>github [myblog-docsify]( https://github.com/scott180/myblog-docsify ) &ensp; [网页](  https://scott180.github.io/myblog-docsify/ ) |  笔记与博客docsify                  |
+| plain-docsify    | gitlab [plain-docsify]( https://gitlab.com/xuyq123/plain-docsify ) &ensp; [网页](  https://xuyq123.gitlab.io/plain-docsify/ ) <br/>github [plain-docsify]( https://github.com/scott180/plain-docsify ) &ensp; [网页](  https://scott180.github.io/plain-docsify/ )       |  笔记docsify        |
+| myblog-docsify   | gitlab [myblog-docsify]( https://gitlab.com/xuyq123/myblog-docsify ) &ensp; [网页](  https://xuyq123.gitlab.io/myblog-docsify/ ) <br/>github [myblog-docsify]( https://github.com/scott180/myblog-docsify ) &ensp; [网页](  https://scott180.github.io/myblog-docsify/ ) |  笔记与博客docsify  |
+| shufaguiji       | gitlab [shufaguiji]( https://gitlab.com/xuyq123/shufaguiji ) &ensp; [**网页**](  https://xuyq123.gitlab.io/shufaguiji/ ) <br/>github [shufaguiji]( https://github.com/scott180/shufaguiji ) &ensp; [网页](  https://scott180.github.io/shufaguiji/ )                     |  书法轨迹           |
 
 ---
 
