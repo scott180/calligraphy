@@ -73,27 +73,30 @@
 | 2    | [博客园]( https://www.cnblogs.com/scott123/p/15184752.html ) &ensp; [ReadMe]( https://www.cnblogs.com/scott123/p/14972979.html )              |  开发者知识分享社区。                        |
 | 3    | [语雀]( https://www.yuque.com/longguang123/ccgbto/cbq9u0 ) &ensp; [ReadMe]( https://www.yuque.com/longguang123/ccgbto/oby4hq )                |  文档与知识管理工具，无删减。阿里巴巴产品。  |
 | 4    | [SegmentFault 思否]( https://segmentfault.com/a/1190000041513337 )                |  新一代开发者社区和专业的技术媒体。  |
+| 5    | [开源中国 OSCHINA]( https://my.oschina.net/xy180/blog/5482689 )                   |  领先的中文开源技术社区。            |
+| 6    | [稀土掘金 juejin]( https://juejin.cn/post/7073717463862476830 )                   |  技术分享社区。                      |
 | -    | **笔记**                        |                                    |
-| 5    | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
-| 6    | [金山文档]( https://www.kdocs.cn/l/cpUDGjX6765H )                    | pdf文件分享，需要登录。                      |
-| 7    | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
-| 8    | [飞书]( https://nal4j8dwi0.feishu.cn/docs/doccntwAAd1yjADzHGQT0ueBkN7 ) &ensp; [ReadMe]( https://nal4j8dwi0.feishu.cn/docs/doccnpf5pWihfu3aW4psk5vO7ue )           | 办公平台。字节跳动产品。|
-| 9    | [我来]( https://www.wolai.com/rDqeCwfv87RLPPmuu2fvyi ) &ensp; [ReadMe]( https://www.wolai.com/npaRuQ7wj44TYHqup5xg2w )                        | 不仅仅是未来的云端协作平台与个人笔记。       |
-| 10   | [notion]( https://brick-windshield-519.notion.site/4c6820d4272a4b91ba50b15077869b7e ) &ensp; [ReadMe]( https://brick-windshield-519.notion.site/ReadMe-5c35fb0d0da644bb98e673cc98409ad5 )    | 笔记个人空间。       |
-| 11   | [boostnote]( https://boostnote.io/shared/c45f0095-bffc-40e9-93da-bb3927e60294 ) &ensp; [ReadMe]( https://boostnote.io/shared/1ae6faaa-ee9e-4659-8721-650d1b272f7f ) | 专为程序员提供的markdown笔记本软件。          |
-| 12   | [pdfdrive]( https://www.pdfdrive.com/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9readme-e201239704.html ) | PDF Drive is Digital Library of Free PDF eBooks.           |
+| 7    | [有道云]( http://note.youdao.com/s/V7b1jHjB )                        | 笔记分享，无删减。               	         |
+| 8    | [金山文档]( https://www.kdocs.cn/l/cpUDGjX6765H )                    | pdf文件分享，需要登录。                      |
+| 9    | [作业部落]( https://www.zybuluo.com/scott180/note/1793757 ) &ensp; [ReadMe]( https://www.zybuluo.com/scott180/note/892814 )    | markdown编辑器，文件分享。        |
+| 10   | [飞书]( https://nal4j8dwi0.feishu.cn/docs/doccntwAAd1yjADzHGQT0ueBkN7 ) &ensp; [ReadMe]( https://nal4j8dwi0.feishu.cn/docs/doccnpf5pWihfu3aW4psk5vO7ue )           | 办公平台。字节跳动产品。|
+| 11   | [我来]( https://www.wolai.com/rDqeCwfv87RLPPmuu2fvyi ) &ensp; [ReadMe]( https://www.wolai.com/npaRuQ7wj44TYHqup5xg2w )                        | 不仅仅是未来的云端协作平台与个人笔记。       |
+| 12   | [notion]( https://brick-windshield-519.notion.site/4c6820d4272a4b91ba50b15077869b7e ) &ensp; [ReadMe]( https://brick-windshield-519.notion.site/ReadMe-5c35fb0d0da644bb98e673cc98409ad5 )    | 笔记个人空间。       |
+| 13   | [boostnote]( https://boostnote.io/shared/c45f0095-bffc-40e9-93da-bb3927e60294 ) &ensp; [ReadMe]( https://boostnote.io/shared/1ae6faaa-ee9e-4659-8721-650d1b272f7f ) | 专为程序员提供的markdown笔记本软件。          |
+| 14   | [pdfdrive]( https://www.pdfdrive.com/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9readme-e201239704.html ) | PDF Drive is Digital Library of Free PDF eBooks.           |
 | -    | **云盘**                        |                                    |
-| 13   | [坚果云]( https://www.jianguoyun.com/p/Df38XDMQxP-NBhi3vKwE ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )          |  文件分享。        |
-| 14   | [百度网盘]( https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ )        | 提取码: zpxu 。pdf文件分享，需要登录。       |
-| 15   | [阿里云盘]( https://www.aliyundrive.com/s/A6HYqyw15Zr )              | pdf文件分享，需要登录。                      |
-| 16   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
-| 17   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
-| 18   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                |
-| 19   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
+| 15   | [坚果云]( https://www.jianguoyun.com/p/Df38XDMQxP-NBhi3vKwE ) &ensp; [markdown]( https://www.jianguoyun.com/p/DfYHsfUQxP-NBhjOrfED )          |  文件分享。        |
+| 16   | [百度网盘]( https://pan.baidu.com/s/1dOJMgeZAyCYolEflsKIOPQ )        | 提取码: zpxu 。pdf文件分享，需要登录。       |
+| 17   | [阿里云盘]( https://www.aliyundrive.com/s/A6HYqyw15Zr )              | pdf文件分享，需要登录。                      |
+| 18   | [天翼云]( https://cloud.189.cn/t/RRBbumb2MB7b )                      | pdf文件分享，需要登录。中国电信网盘。        |
+| 19   | [和彩云]( https://caiyun.139.com/m/i?125CmrCy7hU1y )                 | 提取码:WAmq 。pdf文件分享，需要登录。中国移动网盘。     |
+| 20   | [微云]( https://share.weiyun.com/JKZ4ANJ5 )  &ensp; [腾讯文档]( https://docs.qq.com/pdf/DVmxKTG5YZHZBUGlx )         | pdf文件分享。                                |
+| 21   | [google云盘]( https://drive.google.com/file/d/1Ubx-Rz3Xwhn48PEXMx-BmWrJGyIAzNfn/view?usp=sharing )                  | 文件分享，无删减。                           |
 | -    | **网页**                        |                                    |
-| 20   | [gitee_pages]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
-| 21   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [ReadMe]( https://scott180.github.io/calligraphy ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) 。|
-| 22   | [**gitlab_pages**]( https://xuyq123.gitlab.io/plain-docsify/#/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )  &ensp; [ReadMe]( https://xuyq123.gitlab.io/plain-docsify/#/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe )     | gitlab静态网页。[docsify](  https://xuyq123.gitlab.io/myblog-docsify/#/%E6%96%87%E6%A1%A3/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe ) &ensp; [mkdocs]( https://xuyq123.gitlab.io/plain-mkdocs ) &ensp; [html]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) 。   |
+| 22   | [gitee_pages]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) &ensp; [ReadMe]( http://xy180.gitee.io/plain-mkdocs/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe.html ) | gitee静态网页，markdown转html。     |
+| 23   | [github_pages]( https://scott180.github.io/calligraphy/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [ReadMe]( https://scott180.github.io/calligraphy ) | github静态网页，有时打不开。[主题1]( https://scott180.github.io/calligraphy1/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) &ensp; [主题2]( https://scott180.github.io/calligraphy2/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 ) 。|
+| 24   | [gitlab_pages]( https://xuyq123.gitlab.io/plain-docsify/#/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89 )  &ensp; [ReadMe]( https://xuyq123.gitlab.io/plain-docsify/#/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe )     | gitlab静态网页。[docsify](  https://xuyq123.gitlab.io/myblog-docsify/#/%E6%96%87%E6%A1%A3/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9ReadMe ) &ensp; [mkdocs]( https://xuyq123.gitlab.io/plain-mkdocs ) &ensp; [html]( https://xuyq123.gitlab.io/plain/%E4%B9%A6%E6%B3%95%E7%BB%83%E4%B9%A0%E8%BD%A8%E8%BF%B9--%E6%98%8E%E6%9C%88%E5%87%A0%E6%97%B6%E6%9C%89.html ) 。   |
+| 25   | [**docusaurus2**]( https://calligraphy-docusaurus2.vercel.app )  &ensp; [portfolio]( https://calligraphy-blog.vercel.app/ )     | [vercel]( https://vercel.com/xuyq ) 开发者服务网站，提供静态网站托管的云平台。  |
 
 ---
 
