@@ -66,7 +66,6 @@
 | 14   | [**docusaurus2**]( https://calligraphy-docusaurus2.vercel.app )  &ensp; [portfolio]( https://calligraphy-blog.vercel.app/ )     | [vercel]( https://vercel.com/xuyq ) 开发者服务网站，提供静态网站托管的云平台。  |
 | 15   | [nextjs]( https://netlify-calligraphy-nextjs.netlify.app ) &ensp; [artisan]( https://netlify-calligraphy-artisan.netlify.app )  | [netlify]( https://app.netlify.com ) 提供 JamStack(静态网站)托管的平台。        |
 
-
 ---
 
 | 序号 | **社区**                                              			      |  备注             			                 |
@@ -97,9 +96,8 @@
 | -    | **内容**                        |                                                                                   |
 | 22   | [豆瓣]( https://www.douban.com/photos/album/1881601083/ )            |  发现优质书影音，记录生活表达自我。          |
 | 23   | [知乎]( https://zhuanlan.zhihu.com/p/403400860 )                     |  问答社区和创作者聚集的原创内容平台。        |
-| 24   | [今日头条]( https://www.toutiao.com/a7003584972175147528/ )          |  通用信息平台，看见更大的世界。              |                             
+| 24   | [今日头条]( https://www.toutiao.com/a7003584972175147528/ )          |  通用信息平台，看见更大的世界。              |
 | 25   | [微信公众号]( https://mp.weixin.qq.com/s?__biz=Mzg4NDY2OTM0Mg==&mid=2247487244&idx=1&sn=fa21068e783c6b31a62abf71186c1b20 )     |  自媒体，每周一在【**无为徐生**】公众号发布`书法练习轨迹`一周练习图文记录。           |
-
 
 
 
@@ -173,6 +171,12 @@ sourgeforge--20220124
 找到两个新的git仓库：gitea（盖特一杯茶）、agit（一个git）。新势力git平台。
 网站比较简约干净，于是将书法练习轨迹内容推送于此。
 --20220225
+
+
+2021年8月发现 mkdocs 及 docsify。文档生成工具，可在gitlab、github平台将markdown文件布署成静态网页。域名为账号+平台+仓库名称。
+2022年3月发现 vercel 及 netlify。静态网站托管的云平台，可导入或生成git项目，布署不同模板的静态网站。域名为自定义名+平台。
+--20220314
+
 
 ```
 
@@ -584,7 +588,6 @@ pages:
 > 文徵明-小楷赤壁赋 <br/>
 ![文徵明-小楷赤壁赋]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/文徵明-小楷赤壁赋.jpg )
 
-
 ---
 
 <div STYLE="page-break-after: always;"></div>
@@ -811,7 +814,6 @@ pages:
 | 无为徐生   | 微信公众号                                               	 |  &ensp; |  今日头条号        |
 | ---------  | ------------------------------------------------------------- |  -      |  ----------        |
 |  二维码    | ![w]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/wuweixusheng_weixin.png ) | <br/> | ![t]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/wuweixusheng_toutiao.png )     |
-
 
 ***
 
