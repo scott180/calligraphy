@@ -53,13 +53,13 @@
 
 > 《书法练习轨迹》及博客网站
 
-| 序号 | 类型       | 我的网站 | git静态网页 | git仓库 | 布署方法 | <div style="width: 170pt">备注</div>                    |
+| 序号 | 类型       | 我的网站 | git静态网页 | git仓库 | <div style="width: 170pt">布署方法</div>  | <div style="width: 170pt">备注</div>                    |
 | ---  | ---------- | -------- | ----------- | ------- | -------- | ----------------------  |
 | 1    | -          | [xushufa]( https://xushufa.cn ) &ensp; [blog]( https://blog.xushufa.cn )   | [scott180.github.io/calligraphy]( https://scott180.github.io/calligraphy )    | [gitlab.com/xuyq123/calligraphy]( https://gitlab.com/xuyq123/calligraphy )    | nginx代理与缓存 |  部署在服务器，有SSL证书，访问安全快速。 | 
-| 2    | vuepress   | [vuepress-calligraphy]( https://vuepress-calligraphy.xushufa.cn ) <br/> [vuepress-blog]( https://vuepress-blog.xushufa.cn ) | [scott180.github.io/vuepress-calligraphy]( https://scott180.github.io/vuepress-calligraphy ) <br/> [scott180.github.io/vuepress-blog]( https://scott180.github.io/vuepress-blog )    | [vuepress-calligraphy]( https://github.com/scott180/vuepress-calligraphy.git ) <br/> [vuepress-blog]( https://github.com/scott180/vuepress-blog.git )    | github绑定域名 `vuepress-blog.xushufa.cn`    | 输入xushufa域名会解析到github静态页面。提交代码即部署。 |
-| 3    | docsify   | [docsify-calligraphy]( https://docsify-calligraphy.xushufa.cn ) <br/> [docsify-blog]( https://docsify-blog.xushufa.cn ) | [scott180.github.io/docsify-calligraphy]( https://scott180.github.io/docsify-calligraphy ) <br/> [scott180.github.io/docsify-blog]( https://scott180.github.io/docsify-blog )    | [docsify-calligraphy]( https://github.com/scott180/docsify-calligraphy.git ) <br/> [docsify-blog]( https://github.com/scott180/docsify-blog.git )    | github绑定域名 `docsify-calligraphy.xushufa.cn`     | 同上，偶尔服务连不上。 |
-| 4    | mkdocs   | [mkdocs-calligraphy]( https://mkdocs-calligraphy.xushufa.cn ) <br/> [mkdocs-blog]( https://mkdocs-blog.xushufa.cn ) | [xuyq123.gitlab.io/mkdocs-calligraphy]( https://xuyq123.gitlab.io/mkdocs-calligraphy ) <br/> [xuyq123.gitlab.io/mkdocs-blog]( https://xuyq123.gitlab.io/mkdocs-blog )    | [mkdocs-calligraphy]( https://gitlab.com/xuyq123/mkdocs-calligraphy.git ) <br/> [mkdocs-blog]( https://gitlab.com/xuyq123/mkdocs-blog.git )    | gitlab绑定域名 `mkdocs-calligraphy.xushufa.cn`     | 输入xushufa域名会解析到gitlab静态页面。网速较慢。 |
-| 5    | vuepress-theme-reco   | [reco-calligraphy]( https://reco-calligraphy.xushufa.cn ) <br/> [reco-blog]( https://reco-blog.xushufa.cn )   | [scott180.github.io/reco-calligraphy]( https://scott180.github.io/reco-calligraphy ) <br/> [scott180.github.io/reco-blog]( https://scott180.github.io/reco-blog )    | [reco-calligraphy]( https://github.com/scott180/reco-calligraphy.git ) <br/> [reco-blog]( https://github.com/scott180/reco-blog.git )    | github绑定域名 `reco-calligraphy.xushufa.cn`    | 每个markdown文件都需要在文件头加上`Front Matter`格式，注明标题、时间、类别、标签等等。 |
+| 2    | **vuepress**   | [vuepress-calligraphy]( https://vuepress-calligraphy.xushufa.cn ) <br/> [vuepress-blog]( https://vuepress-blog.xushufa.cn ) | [scott180.github.io/vuepress-calligraphy]( https://scott180.github.io/vuepress-calligraphy ) <br/> [scott180.github.io/vuepress-blog]( https://scott180.github.io/vuepress-blog )    | [vuepress-calligraphy]( https://github.com/scott180/vuepress-calligraphy.git ) <br/> [vuepress-blog]( https://github.com/scott180/vuepress-blog.git )    | github绑定域名 `vuepress-blog.xushufa.cn`    | 输入xushufa域名会解析到github静态页面。提交代码即部署。 |
+| 3    | **docsify**   | [docsify-calligraphy]( https://docsify-calligraphy.xushufa.cn ) <br/> [docsify-blog]( https://docsify-blog.xushufa.cn ) | [scott180.github.io/docsify-calligraphy]( https://scott180.github.io/docsify-calligraphy ) <br/> [scott180.github.io/docsify-blog]( https://scott180.github.io/docsify-blog )    | [docsify-calligraphy]( https://github.com/scott180/docsify-calligraphy.git ) <br/> [docsify-blog]( https://github.com/scott180/docsify-blog.git )    | github绑定域名 `docsify-calligraphy.xushufa.cn`     | 同上，偶尔服务连不上。 |
+| 4    | **mkdocs**   | [mkdocs-calligraphy]( https://mkdocs-calligraphy.xushufa.cn ) <br/> [mkdocs-blog]( https://mkdocs-blog.xushufa.cn ) | [xuyq123.gitlab.io/mkdocs-calligraphy]( https://xuyq123.gitlab.io/mkdocs-calligraphy ) <br/> [xuyq123.gitlab.io/mkdocs-blog]( https://xuyq123.gitlab.io/mkdocs-blog )    | [mkdocs-calligraphy]( https://gitlab.com/xuyq123/mkdocs-calligraphy.git ) <br/> [mkdocs-blog]( https://gitlab.com/xuyq123/mkdocs-blog.git )    | gitlab绑定域名 `mkdocs-calligraphy.xushufa.cn`     | 输入xushufa域名会解析到gitlab静态页面。网速较慢。 |
+| 5    | **vuepress-theme-reco**   | [reco-calligraphy]( https://reco-calligraphy.xushufa.cn ) <br/> [reco-blog]( https://reco-blog.xushufa.cn )   | [scott180.github.io/reco-calligraphy]( https://scott180.github.io/reco-calligraphy ) <br/> [scott180.github.io/reco-blog]( https://scott180.github.io/reco-blog )    | [reco-calligraphy]( https://github.com/scott180/reco-calligraphy.git ) <br/> [reco-blog]( https://github.com/scott180/reco-blog.git )    | github绑定域名 `reco-calligraphy.xushufa.cn`    | 每个markdown文件都需要在文件头加上`Front Matter`格式，注明标题、时间、类别、标签等等。 |
  
 
 ---
@@ -828,6 +828,15 @@ pages:
 为人须专注，方能有所为。
 为人须用心，方能有所不为。
 --20220307
+
+```
+
+---
+
+```
+坚韧不拔：坚强 坚定 坚持 坚韧 坚毅。
+自立自强：自强 自立 自制 自我 自信。
+--20220406
 
 ```
 
