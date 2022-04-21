@@ -1,10 +1,11 @@
 # 书法练习轨迹remark
 
+<br />
+
 > [**地址**]( https://xushufa.cn ) &ensp; [gitlab]( https://gitlab.com/xuyq123/calligraphy ) &ensp; [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) &ensp; [github]( https://github.com/scott180/calligraphy )  &ensp; [blog]( https://blog.xushufa.cn ) 
 
 
 > 书法练习轨迹附录
-
 
 
 ## 1、markdown转PDF 
@@ -76,9 +77,9 @@ github、gitee 仓库小问题
 ## 3、git静态网页与自定义域名
 
 > [gitlab、github、gitee布署mkdocs主题仓库]( 
-https://gitlab.com/xuyq123/mynotes ) &ensp;  [git平台docsify布署markdown文件]( https://blog.xushufa.cn )
+https://blog.xushufa.cn ) &ensp;  [git平台docsify布署markdown文件]( https://reco-blog.xushufa.cn )
 
-> [gitlab、github绑定自定义域名]( https://vuepress-blog.xushufa.cn/%E8%B5%84%E6%96%99/gitlab%E3%80%81github%E7%BB%91%E5%AE%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9F%9F%E5%90%8D.html ) &ensp; [vuepress构建项目]( https://reco-blog.xushufa.cn/docs/zi-liao/vuepressgou-jian-xiang-mu.html )
+> [gitlab、github绑定自定义域名]( https://mkdocs-blog.xushufa.cn ) &ensp; [vuepress构建项目]( https://docsify-blog.xushufa.cn )
 
 ```
 github、gitee、gitlab静态网页发布 

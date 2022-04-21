@@ -460,10 +460,12 @@ https://xyqin.coding.net/p/my/d/document/git/raw/master/imgs/calligraphy-wxMiniP
 
 gitcode  加载快，无屏蔽
 https://gitcode.net/xu180/imgs/-/raw/master/mingyue/2021/202104/2021042504.jpg
+https://codechina.csdn.net/xu180/imgs/-/raw/master/mingyue/2022/202204/2022040801.jpg
 https://gitcode.net/xu180/document/-/raw/master/imgs/weixin/calligraphy-wxMiniProgram.jpg
 
-github  国外网站，加载慢
+github  国外网站，加载慢   cdn
 https://raw.githubusercontent.com/scott180/imgs/master/mingyue/2021/202104/2021042501.jpg
+https://cdn.jsdelivr.net/gh/scott180/imgs/mingyue/2021/202105/2021050202.jpg
 
 gitee   加载快，有屏蔽
 https://gitee.com/xy180/imgs/raw/master/mingyue/2021/202104/2021040202.jpg
