@@ -71,7 +71,7 @@
 
 **生活随笔-编程笔记-书法练习轨迹。**
 
-|        | 地址        |  备注          |
+| 徐书法 | 地址        |  备注          |
 | -----  | ----------- |  ------------- |
 | 1      | [xushufa.cn]( https://xushufa.cn )            | 书法练习网站。 |
 | 2      | [blog.xushufa.cn]( https://blog.xushufa.cn )  | `vuepress`构建的博客网站。 |
@@ -86,7 +86,7 @@
 
 **工具网站及网站地图。**
 
-|        | 地址        |  备注          |
+| 序号   | 地址        |  备注          |
 | -----  | ----------- |  ------------- |
 | 1      | [tool.xushufa.cn]( https://tool.xushufa.cn ) | 工具网站。在线预览markdown、解析json、url解码、时间戳转换等。  |
 | 2      | [md.xushufa.cn]( https://md.xushufa.cn )     | xushufa网站地图，nginx网页目录结构。|
