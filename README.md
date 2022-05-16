@@ -160,15 +160,15 @@
 
 > 前5G &ensp; `gitee、github、gitcode、gitlab、coding` &ensp; `5个git平台，简称5G`
 
-- 自二零二零年九月底练习书法以来，刚开始一直在`gitee`仓库记录更新每周练习情况，毕竟这是国产网站，还是要支持的。 <br/>
+- 自二零二零年九月底练习书法以来，刚开始一直在[gitee]( https://gitee.com/xy180/calligraphy )仓库记录更新每周练习情况，毕竟这是国产网站，还是要支持的。 <br/>
 后来有鉴于某云盘背信弃义停止服务，一个网站保存资料不保险，鸡蛋不能放到一个篮子里。 <br/>
-而且全世界最流行的git平台是`github`，于是二零二零年十一月将文件备份到此处，gitee为主github为辅。 <br/>
+而且全世界最流行的git平台是[github]( https://github.com/scott180/calligraphy )，于是二零二零年十一月将文件备份到此处，gitee为主github为辅。 <br/>
 
-- 但是github是境外网站，网速慢，经常打不开。于是又找了个国产git平台：`csdn_code`，将资料再备份一份到此处。 <br/>
-这个git平台虽然建立时间短，知名度低，用户少，但是网速挺快，限制也少，不怎么屏蔽关键字。 <br/>
+- 但是github是境外网站，网速慢，经常打不开。于是又找了个国产git平台：[gitcode]( https://gitcode.net/xu180/calligraphy )，将资料再备份一份到此处。 <br/>
+这个git平台属于csdn，虽然建立时间短，知名度低，用户少，但是网速挺快，限制也少，不怎么屏蔽关键字。 <br/>
 
 - 再后来觉得狡兔三窟，互联网这玩意不是特别靠谱，说不定哪天网站会被封或者停止服务，多找些地方备份总是没错的。 <br/>
-于是网上搜索常用git平台仓库，将书法练习资料又备份到`gitlab`和`coding`。这五个平台同时保存书法练习相关资料和图片。 <br/>
+于是网上搜索常用git平台仓库，将书法练习资料又备份到[**gitlab**]( https://gitlab.com/xuyq123/calligraphy )和[coding]( https://xyqin.coding.net/public/my/calligraphy/git )。这五个平台同时保存书法练习相关资料和图片。 <br/>
 
    <br/>
 
@@ -204,12 +204,12 @@ coding--20210524 <br/>
 > 后5G &ensp; `bitbucket、sourgeforge、codeberg、gitea、agit`
 
 - 这几天github相关网页都打不开。果然，鸡蛋不能放在一个篮子里。 <br/>
-若要查看书法练习轨迹相关文档，可到上述表格第一号“gitlab”项目。目前这个平台还是稳定的，本人最新记录正在此处。 <br/>
-如感觉网速较慢或者页面加载不出来，可到第二号“csdn_code”或第二十一号“作业部落”查看文档。此两处为国产软件，平台稳定，网速较快。 --20210721 <br/>
+若要查看书法练习轨迹相关文档，可到上述表格第一行“gitlab”项目。目前这个平台还是稳定的，本人最新记录正在此处。 <br/>
+如感觉网速较慢或者页面加载不出来，可到“csdn_code”或“作业部落”查看文档。此两处为国产软件，平台稳定，网速较快。 --20210721 <br/>
 
 
 - github网页还是看不了，csdn_code图片突然打不开，再看看还有啥git平台。 <br/>
-发现`bitbucket`，在此再备份书法练习轨迹文档及图片。 <br/>
+发现[bitbucket]( https://bitbucket.org/xu12345/calligraphy )，在此再备份书法练习轨迹文档及图片。 <br/>
 此平台网速还行，可建立私有仓库，但是对于markdown文件兼容的不理想，有些html标签不能识别，网页渲染不美观。 <br/>
 bitbucket--20210726 <br/>
 
@@ -222,13 +222,13 @@ GitCode--20220104 <br/>
 
 
 - 发现在csdn的calligraphy仓库被禁，显示“当前内容涉嫌违规，暂时无法访问”。继续寻找备份者，替代者。 <br/>
-发现`sourgeforge`不错，虽然是国外的，但是网速还行，操作不算复杂。可以建立Git仓库，保存资料。 <br/>
+发现[sourceforge]( https://sourceforge.net/p/calligraphy/code )不错，虽然是国外的，但是网速还行，操作不算复杂。可以建立Git仓库，保存资料。 <br/>
 sourgeforge--20220124 <br/>
-发现`codeberg`还行，科德伯格，德国产品。 <br/>
+发现[codeberg]( https://codeberg.org/xuyq/calligraphy )还行，科德伯格，德国产品。 <br/>
 codeberg--20220125 <br/>
 
 
-- 找到两个新的git仓库：`gitea`（盖特一杯茶）、`agit`（一个git）。新势力git平台。 <br/>
+- 找到两个新的git仓库：[gitea]( https://gitea.com/xuyq/calligraphy )（盖特一杯茶）、[agit]( https://agit.ai/xuyq/calligraphy )（一个git）。新势力git平台。 <br/>
 网站比较简约干净，于是将书法练习轨迹内容推送于此。 <br/>
 gitea--20220225 <br/>
 
