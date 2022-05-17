@@ -160,15 +160,15 @@
 
 > 前5G &ensp; `gitee、github、gitcode、gitlab、coding` &ensp; `5个git平台，简称5G`
 
-- 自二零二零年九月底练习书法以来，刚开始一直在[gitee]( https://gitee.com/xy180/calligraphy )仓库记录更新每周练习情况，毕竟这是国产网站，还是要支持的。 <br/>
+- 自二零二零年九月底练习书法以来，刚开始一直在 [gitee]( https://gitee.com/xy180/calligraphy ) 仓库记录更新每周练习情况，毕竟这是国产网站，还是要支持的。 <br/>
 后来有鉴于某云盘背信弃义停止服务，一个网站保存资料不保险，鸡蛋不能放到一个篮子里。 <br/>
-而且全世界最流行的git平台是[github]( https://github.com/scott180/calligraphy )，于是二零二零年十一月将文件备份到此处，gitee为主github为辅。 <br/>
+而且全世界最流行的git平台是 [github]( https://github.com/scott180/calligraphy ) ，于是二零二零年十一月将文件备份到此处，gitee为主github为辅。 <br/>
 
-- 但是github是境外网站，网速慢，经常打不开。于是又找了个国产git平台：[gitcode]( https://gitcode.net/xu180/calligraphy )，将资料再备份一份到此处。 <br/>
+- 但是github是境外网站，网速慢，经常打不开。于是又找了个国产git平台：[gitcode]( https://gitcode.net/xu180/calligraphy ) ，将资料再备份一份到此处。 <br/>
 这个git平台属于csdn，虽然建立时间短，知名度低，用户少，但是网速挺快，限制也少，不怎么屏蔽关键字。 <br/>
 
 - 再后来觉得狡兔三窟，互联网这玩意不是特别靠谱，说不定哪天网站会被封或者停止服务，多找些地方备份总是没错的。 <br/>
-于是网上搜索常用git平台仓库，将书法练习资料又备份到[**gitlab**]( https://gitlab.com/xuyq123/calligraphy )和[coding]( https://xyqin.coding.net/public/my/calligraphy/git )。这五个平台同时保存书法练习相关资料和图片。 <br/>
+于是网上搜索常用git平台仓库，将书法练习资料又备份到 [**gitlab**]( https://gitlab.com/xuyq123/calligraphy ) 和 [coding]( https://xyqin.coding.net/public/my/calligraphy/git ) 。这五个平台同时保存书法练习相关资料和图片。 <br/>
 
    <br/>
 
@@ -209,7 +209,7 @@ coding--20210524 <br/>
 
 
 - github网页还是看不了，csdn_code图片突然打不开，再看看还有啥git平台。 <br/>
-发现[bitbucket]( https://bitbucket.org/xu12345/calligraphy )，在此再备份书法练习轨迹文档及图片。 <br/>
+发现 [bitbucket]( https://bitbucket.org/xu12345/calligraphy ) ，在此再备份书法练习轨迹文档及图片。 <br/>
 此平台网速还行，可建立私有仓库，但是对于markdown文件兼容的不理想，有些html标签不能识别，网页渲染不美观。 <br/>
 bitbucket--20210726 <br/>
 
@@ -222,9 +222,9 @@ GitCode--20220104 <br/>
 
 
 - 发现在csdn的calligraphy仓库被禁，显示“当前内容涉嫌违规，暂时无法访问”。继续寻找备份者，替代者。 <br/>
-发现[sourceforge]( https://sourceforge.net/p/calligraphy/code )不错，虽然是国外的，但是网速还行，操作不算复杂。可以建立Git仓库，保存资料。 <br/>
+发现 [sourceforge]( https://sourceforge.net/p/calligraphy/code ) 不错，虽然是国外的，但是网速还行，操作不算复杂。可以建立Git仓库，保存资料。 <br/>
 sourgeforge--20220124 <br/>
-发现[codeberg]( https://codeberg.org/xuyq/calligraphy )还行，科德伯格，德国产品。 <br/>
+发现 [codeberg]( https://codeberg.org/xuyq/calligraphy ) 还行，科德伯格，德国产品。 <br/>
 codeberg--20220125 <br/>
 
 
@@ -241,10 +241,10 @@ gitea--20220225 <br/>
 --20220314 <br/>
 
 - 创建《徐书法》同时购买服务器且注册域名：[xushufa.cn]( https://xushufa.cn ) 。 <br/>
-使用mkdocs、docsify、`vuepress`、`vuepress-theme-reco`等四种工具建立了四个书法练习网站及四个博客网站。以后这就是我的书法记录平台。 <br/>
+使用 [mkdocs]( https://xuyq123.gitlab.io/mkdocs-blog )、[docsify]( https://scott180.github.io/docsify-blog )、[vuepress]( https://scott180.github.io/vuepress-blog )、[vuepress-theme-reco]( https://scott180.github.io/reco-blog ) 等四种工具建立了四个书法练习网站及四个博客网站。以后这就是我的书法记录平台。 <br/>
 vuepress--202203 
 
-- 发现`gitbook`，使用 Git 和 Markdown 来构建书籍的工具。 <br/>
+- 发现 [gitbook]( https://scott180.github.io/gitbook-blog )，使用 Git 和 Markdown 来构建书籍的工具。 <br/>
 gitbook--20220429
 
 ---
