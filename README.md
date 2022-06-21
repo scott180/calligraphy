@@ -40,7 +40,7 @@
 > 博客网站
 
 ```
-生活随笔-编程笔记-书法练习轨迹
+生活随笔-编程笔记-书法练习轨迹。
 ```
 
 | 徐书法 | 地址        |  备注          |
@@ -54,7 +54,7 @@
 > 主题网站
 
 ```
-使用vuepress、docsify、mkdocs等工具构建的不同主题不同域名的个人网站
+使用vuepress、docsify、mkdocs等工具构建的不同主题不同域名的个人网站。
 ```
 
 | 序号   | 我的网站    |  备注          |
@@ -70,7 +70,7 @@
 > 网站仓库
 
 ```
-《书法练习轨迹》博客网站及git仓库
+《书法练习轨迹》博客网站及git仓库。
 ```
 
 | 序号 | 类型       | 我的网站 | git静态网页 | git仓库 | 布署方法 | <span style="white-space:nowrap;">备注&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span> |
@@ -326,7 +326,6 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 ---
 
-
 > git平台 &ensp; 官网 &ensp; 项目地址 &ensp; 静态网页 &ensp; docsify网页 &ensp; mkdocs网页 &ensp; HTTPS &ensp; SSH &ensp; 图片地址  
 
 | 序号 | 官网 | 项目地址 | 静态网页 | docsify网页 | mkdocs网页 | HTTPS | SSH | 图片地址 |
@@ -511,7 +510,7 @@ https://sourceforge.net/p/calligraphy/imgs/ci/master/tree/mingyue/2022/202201/20
 codeberg 速度较快
 https://codeberg.org/xuyq/imgs/raw/branch/master/mingyue/2022/202201/2022012101.jpg
 
-npm  cdn
+cdn npm node
 https://cdn.jsdelivr.net/npm/xushufa-imgs/imgs/mingyue/2021/202112/2021120801.jpg
 https://cdn.jsdelivr.net/npm/xushufa-imgs2/imgs/mingyue/2022/202205/2022050801.jpg
 
