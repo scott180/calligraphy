@@ -318,7 +318,7 @@ docsify是跟mkdocs类似的工具，可将markdown文件布署成静态网页�
 
 > 开通了微信小程序《书法练习轨迹》。练手项目，学习技术。聊以宣传，延伸轨迹。 [calligraphy-wxMiniProgram]( https://github.com/scott180/calligraphy-wxMiniProgram )  --202202
 
-![c]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/calligraphy-wxMiniProgram.jpg )
+![c]( https://md.xushufa.cn/gitimg/imgs/other/calligraphy-wxMiniProgram.jpg )
 
 ---
 
@@ -517,7 +517,10 @@ cdn npm node
 https://cdn.jsdelivr.net/npm/xushufa-imgs/imgs/mingyue/2021/202112/2021120801.jpg
 https://cdn.jsdelivr.net/npm/xushufa-imgs2/imgs/mingyue/2022/202205/2022050801.jpg
 
-
+xushufa
+https://md.xushufa.cn/gitimg/imgs/other/wuweixusheng_weixin.png
+https://md.xushufa.cn/gitimg/document/imgs/shufa/chibifu/s1.jpg
+		
 ```
 
 ---
@@ -558,7 +561,7 @@ https://cdn.jsdelivr.net/npm/xushufa-imgs2/imgs/mingyue/2022/202205/2022050801.j
 
 | 无为徐生   | 微信公众号                                               	 |  &ensp; |  今日头条号        |
 | ---------  | ------------------------------------------------------------- |  -      |  ----------        |
-|  二维码    | ![w]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/wuweixusheng_weixin.png ) | <br/> | ![t]( https://xyqin.coding.net/p/my/d/imgs/git/raw/master/other/wuweixusheng_toutiao.png )     |
+|  二维码    | ![w]( https://md.xushufa.cn/gitimg/imgs/other/wuweixusheng_weixin.png ) | <br/> | ![t]( https://md.xushufa.cn/gitimg/imgs/other/wuweixusheng_toutiao.png )     |
 
 ***
 
