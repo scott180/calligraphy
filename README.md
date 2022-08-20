@@ -253,8 +253,8 @@ gitbook--20220429
 
 - 八月发现`coding`的图片都打不开了，所有图片链接报错 `{"msg":{"user_not_login":"用户未登录"},"data":{"account_type":"0"},"code":1000}` 。 <br/>
 果然，独立自主，自力更生，鸡蛋不能放在一个篮子里。 <br/>
-靠山山会倒，靠人人会跑，只有自己最可靠。<br/>
-于是将相关图片都放在自己的服务器[md.xushufa]( https://md.xushufa.cn/gitimg/ )。
+靠山山会倒，靠人人会跑，只有自己最可靠。 <br/>
+于是将相关图片都放在自己的服务器[md.xushufa]( https://md.xushufa.cn/gitimg/ )。 <br/>
 --20220820
 
 ---
