@@ -257,6 +257,11 @@ gitbook--20220429
 于是将相关图片都放在自己的服务器[md.xushufa]( https://md.xushufa.cn/gitimg/ )。 <br/>
 --20220820
 
+- 九月使用`Typora`，`pandoc`和`MarkText`，`PDFPatcher`将所有`markdown`文件都导出为`pdf`文件。<br/>
+如此，图文一体，文档内容、图片、格式三合一，再也不会少字、丢图、变形。<br/>
+`pdf`是储藏《书法练习轨迹》的最佳文件格式。[gitcode]( https://gitcode.net/xu180/document/-/tree/master/pdf ) &ensp; [coding]( https://xyqin.coding.net/public/my/document/git/files/master/pdf ) <br/>
+--202209
+
 ---
 
 ### 2.4、主题链接
